@@ -4,7 +4,7 @@ import json
 import pickle
 
 # define list of existing stations
-with open("./data/stations/station_information.json") as f:
+with open("data/stations/station_information.json") as f:
     data = json.load(f)
 
 stations = pd.DataFrame(data['data']['stations'])
@@ -45,6 +45,6 @@ def extract_d(month_path):
     return d
 
 # save in data folder
-d = extract_d("./data/trips/202209-bluebikes-tripdata.csv")
-with open('./data/parameters/demand_matrix.pkl','wb') as f:
+d = extract_d("data/trips/202210-bluebikes-tripdata.csv")
+with open('data/parameters/demand_matrix.pkl','wb') as f:
     pickle.dump(d,f)

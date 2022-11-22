@@ -1,0 +1,450 @@
+station_id,station_type,name,external_id,eightd_station_services,lon,legacy_id,has_kiosk,capacity,electric_bike_surcharge_waiver,eightd_has_key_dispenser,rental_methods,short_name,lat,region_id
+3,classic,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,f83464e4-0de8-11e7-991c-3863bb43a7d0,[],-71.10061883926392,3,True,15,False,True,"['CREDITCARD', 'KEY']",B32006,42.34011512249236,10
+4,classic,Tremont St at E Berkeley St,f834658f-0de8-11e7-991c-3863bb43a7d0,[],-71.069616,4,True,19,False,False,"['CREDITCARD', 'KEY']",C32000,42.345392,10
+5,classic,Northeastern University - North Parking Lot,f834662c-0de8-11e7-991c-3863bb43a7d0,[],-71.090179,5,True,15,False,False,"['CREDITCARD', 'KEY']",B32012,42.341814,10
+6,classic,Cambridge St at Joy St,f83466c6-0de8-11e7-991c-3863bb43a7d0,[],-71.06528744101524,6,True,15,False,False,"['CREDITCARD', 'KEY']",D32000,42.36125721646537,10
+7,classic,Fan Pier,f8346768-0de8-11e7-991c-3863bb43a7d0,[],-71.04457139968872,7,True,15,False,False,"['CREDITCARD', 'KEY']",A32000,42.3533905070523,10
+8,classic,Union Square - Brighton Ave at Cambridge St,f8346803-0de8-11e7-991c-3863bb43a7d0,[],-71.137313,8,True,19,False,False,"['CREDITCARD', 'KEY']",A32001,42.353334,10
+9,classic,Commonwealth Ave at Agganis Way,f8346894-0de8-11e7-991c-3863bb43a7d0,[],-71.11903488636017,9,True,15,False,False,"['CREDITCARD', 'KEY']",A32002,42.35169201885973,10
+10,classic,B.U. Central - 725 Comm. Ave.,f8346a3c-0de8-11e7-991c-3863bb43a7d0,[],-71.108279,10,True,11,False,False,"['CREDITCARD', 'KEY']",A32003,42.350406,10
+11,classic,Longwood Ave at Binney St,f8346ad7-0de8-11e7-991c-3863bb43a7d0,"[{'service_type': 'ATTENDED_SERVICE', 'id': 'f8346ad7-0de8-11e7-991c-3863bb43a7d0', 'description': '', 'name': 'Valet Service', 'bikes_availability': 'UNLIMITED', 'link_for_more_info': '', 'off_dock_bikes_count': 68, 'docks_availability': 'NONE', 'off_dock_remaining_bike_capacity': -18, 'schedule_description': ''}]",-71.1065,11,True,15,False,False,"['CREDITCARD', 'KEY']",A32004,42.338629,10
+12,classic,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,f8346b6f-0de8-11e7-991c-3863bb43a7d0,[],-71.08798563480377,12,True,26,False,True,"['CREDITCARD', 'KEY']",B32002,42.33624444796878,10
+13,classic,Boston Medical Center - E Concord St at Harrison Ave,f8346c01-0de8-11e7-991c-3863bb43a7d0,[],-71.07306711393903,13,True,19,False,False,"['CREDITCARD', 'KEY']",C32002,42.33639915372498,10
+14,classic,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,f8346c96-0de8-11e7-991c-3863bb43a7d0,[],-71.10286116600037,14,True,25,False,False,"['CREDITCARD', 'KEY']",B32003,42.3374174845973,10
+15,classic,Brighton Mills - 370 Western Ave,f8346d23-0de8-11e7-991c-3863bb43a7d0,[],-71.13776206970215,15,True,15,False,False,"['CREDITCARD', 'KEY']",A32005,42.3615457081725,10
+16,classic,Back Bay T Stop - Dartmouth St at Stuart St,f8346dbd-0de8-11e7-991c-3863bb43a7d0,[],-71.07657015323639,16,True,19,False,True,"['CREDITCARD', 'KEY']",C32003,42.34807412317439,10
+17,classic,Soldiers Field Park - 111 Western Ave,f8346e51-0de8-11e7-991c-3863bb43a7d0,[],-71.1182756971175,17,True,15,False,False,"['CREDITCARD', 'KEY']",A32006,42.364263440638524,10
+19,classic,Park Dr at Buswell St,f8346f6f-0de8-11e7-991c-3863bb43a7d0,[],-71.105301,19,True,15,False,False,"['CREDITCARD', 'KEY']",A32008,42.347241,10
+20,classic,Aquarium T Stop - 200 Atlantic Ave,f8347002-0de8-11e7-991c-3863bb43a7d0,[],-71.0514298081398,20,True,23,False,True,"['CREDITCARD', 'KEY']",B32004,42.35991176110118,10
+21,classic,Prudential Center - 101 Huntington Ave,f834708e-0de8-11e7-991c-3863bb43a7d0,[],-71.08065776545118,21,True,18,False,True,"['CREDITCARD', 'KEY']",C32007,42.34652003998412,10
+22,classic,South Station - 700 Atlantic Ave,f8347118-0de8-11e7-991c-3863bb43a7d0,[],-71.055547,22,True,47,False,True,"['CREDITCARD', 'KEY']",A32010,42.352175,10
+23,classic,Boston City Hall - 28 State St,f83471a1-0de8-11e7-991c-3863bb43a7d0,[],-71.057629,23,True,25,False,True,"['CREDITCARD', 'KEY']",B32008,42.35892,10
+24,classic,Seaport Square - Seaport Blvd at Northern Ave,f834723b-0de8-11e7-991c-3863bb43a7d0,[],-71.04436084628105,24,True,19,False,False,"['CREDITCARD', 'KEY']",B32007,42.35148193460858,10
+25,classic,South End Library - Tremont St at W Newton St,f83472d3-0de8-11e7-991c-3863bb43a7d0,[],-71.076847,25,True,15,False,False,"['CREDITCARD', 'KEY']",A32009,42.341332,10
+26,classic,Washington St at Waltham St,f8347361-0de8-11e7-991c-3863bb43a7d0,[],-71.06890439987183,26,True,15,False,False,"['CREDITCARD', 'KEY']",D32002,42.341574718737476,10
+27,classic,Roxbury Crossing T Stop - Columbus Ave at Tremont St,f83473ea-0de8-11e7-991c-3863bb43a7d0,[],-71.095171,27,True,23,False,False,"['CREDITCARD', 'KEY']",C32001,42.331184,10
+29,classic,Innovation Lab - 125 Western Ave at Batten Way,f8347a8b-0de8-11e7-991c-3863bb43a7d0,[],-71.12459778785706,29,True,19,False,False,"['CREDITCARD', 'KEY']",A32011,42.36371276003581,10
+30,classic,Brigham Circle - Francis St at Huntington Ave,f8347b1e-0de8-11e7-991c-3863bb43a7d0,[],-71.10407917767589,30,True,15,False,False,"['CREDITCARD', 'KEY']",B32013,42.33462893055976,10
+31,classic,Seaport Hotel - Congress St at Seaport Ln,f8347ba8-0de8-11e7-991c-3863bb43a7d0,[],-71.04167744055303,31,True,19,False,True,"['CREDITCARD', 'KEY']",B32014,42.34881026188269,10
+32,classic,Landmark Center - Brookline Ave at Park Dr,f8347c41-0de8-11e7-991c-3863bb43a7d0,[],-71.10235286881107,32,True,15,False,False,"['CREDITCARD', 'KEY']",B32015,42.343690557197476,10
+33,classic,Kenmore Square,f8347ccd-0de8-11e7-991c-3863bb43a7d0,[],-71.097009,33,True,27,False,True,"['CREDITCARD', 'KEY']",B32010,42.348706,10
+35,classic,Arch St at Franklin St,f8347ded-0de8-11e7-991c-3863bb43a7d0,[],-71.0582291708306,35,True,31,False,False,"['CREDITCARD', 'KEY']",D32004,42.355335019412564,10
+36,classic,Copley Square - Dartmouth St at Boylston St,f8347e78-0de8-11e7-991c-3863bb43a7d0,[],-71.07739206866427,36,True,32,False,True,"['CREDITCARD', 'KEY']",D32005,42.34992828230057,10
+37,classic,New Balance - 20 Guest St,f8347f09-0de8-11e7-991c-3863bb43a7d0,[],-71.14673539996147,37,True,15,False,True,"['CREDITCARD', 'KEY']",D32001,42.35732921867706,10
+39,classic,Washington St at Rutland St,f8348021-0de8-11e7-991c-3863bb43a7d0,[],-71.07404083013535,39,True,27,False,False,"['CREDITCARD', 'KEY']",C32006,42.338514601785995,10
+40,classic,Lewis Wharf at Atlantic Ave,f83480a9-0de8-11e7-991c-3863bb43a7d0,[],-71.050877,40,True,19,False,False,"['CREDITCARD', 'KEY']",D32006,42.363871,10
+41,classic,Packard's Corner - Commonwealth Ave at Brighton Ave,f8348136-0de8-11e7-991c-3863bb43a7d0,[],-71.123831,41,True,27,False,True,"['CREDITCARD', 'KEY']",A32012,42.352261,10
+42,classic,Boylston St at Arlington St,f83481c5-0de8-11e7-991c-3863bb43a7d0,[],-71.07060294892108,42,True,31,False,False,"['CREDITCARD', 'KEY']",D32007,42.35200960743121,10
+43,classic,Rowes Wharf at Atlantic Ave,f834824e-0de8-11e7-991c-3863bb43a7d0,[],-71.050699,43,True,14,False,True,"['CREDITCARD', 'KEY']",D32008,42.357143,10
+44,classic,Congress St at Boston City Hall,f83482d2-0de8-11e7-991c-3863bb43a7d0,[],-71.05752243543975,44,True,23,False,False,"['CREDITCARD', 'KEY']",D32009,42.36041774637169,10
+46,classic,Christian Science Plaza - Massachusetts Ave at Westland Ave,f83483f3-0de8-11e7-991c-3863bb43a7d0,[],-71.08582377433777,46,True,19,False,False,"['CREDITCARD', 'KEY']",B32005,42.3436658245146,10
+47,classic,Cross St at Hanover St,f8348481-0de8-11e7-991c-3863bb43a7d0,[],-71.056067,47,True,19,False,False,"['CREDITCARD', 'KEY']",D32010,42.362811,10
+48,classic,Post Office Square,f8348509-0de8-11e7-991c-3863bb43a7d0,[],-71.05459745998814,48,True,19,False,False,"['CREDITCARD', 'KEY']",D32012,42.35585435522005,10
+49,classic,Stuart St at Charles St,f8348598-0de8-11e7-991c-3863bb43a7d0,[],-71.066289,49,True,17,False,True,"['CREDITCARD', 'KEY']",D32011,42.351146,10
+50,classic,Boylston St at Berkeley St,f8348622-0de8-11e7-991c-3863bb43a7d0,[],-71.07329249382019,50,True,15,False,False,"['CREDITCARD', 'KEY']",D32013,42.3511419825475,10
+51,classic,Washington St at Lenox St,f83486ab-0de8-11e7-991c-3863bb43a7d0,[],-71.07903778553009,51,True,15,False,False,"['CREDITCARD', 'KEY']",C32005,42.3350989929096,10
+52,classic,Newbury St at Hereford St,f8348719-0de8-11e7-991c-3863bb43a7d0,[],-71.085954,52,True,23,False,False,"['CREDITCARD', 'KEY']",B32000,42.348717,10
+53,classic,Beacon St at Massachusetts Ave,f8348781-0de8-11e7-991c-3863bb43a7d0,[],-71.0898108780384,53,True,19,False,False,"['CREDITCARD', 'KEY']",B32016,42.35082680669095,10
+54,classic,Tremont St at West St,f83487f0-0de8-11e7-991c-3863bb43a7d0,[],-71.063348,54,True,15,False,False,"['CREDITCARD', 'KEY']",D32014,42.354979,10
+55,classic,Boylston St at Massachusetts Ave,f8348857-0de8-11e7-991c-3863bb43a7d0,[],-71.08678414955648,55,True,15,False,False,"['CREDITCARD', 'KEY']",B32018,42.34740620525209,10
+56,classic,Dudley Square - Bolling Building,f83488be-0de8-11e7-991c-3863bb43a7d0,[],-71.08386572459494,56,True,18,False,True,"['CREDITCARD', 'KEY']",B32017,42.329842993518085,10
+57,classic,Massachusetts Ave at Columbus Ave,f8348924-0de8-11e7-991c-3863bb43a7d0,[],-71.0816197,57,True,14,False,True,"['CREDITCARD', 'KEY']",C32004,42.340814,10
+58,classic,Mugar Way at Beacon St,f8348995-0de8-11e7-991c-3863bb43a7d0,[],-71.07286870479584,58,True,19,False,True,"['CREDITCARD', 'KEY']",D32017,42.355536284897084,10
+59,classic,Chinatown Gate Plaza,f83489ff-0de8-11e7-991c-3863bb43a7d0,[],-71.059367,59,True,19,False,True,"['CREDITCARD', 'KEY']",D32015,42.351356,10
+60,classic,Charles Circle - Charles St at Cambridge St,f8348a68-0de8-11e7-991c-3863bb43a7d0,[],-71.07118962337152,60,True,19,False,False,"['CREDITCARD', 'KEY']",D32016,42.36079296858265,10
+61,classic,Boylston St at Fairfield St,f8349070-0de8-11e7-991c-3863bb43a7d0,[],-71.08192384243011,61,True,3,False,False,"['CREDITCARD', 'KEY']",C32008,42.34908155168097,10
+63,classic,Dorchester Ave at Gillette Park,f834916a-0de8-11e7-991c-3863bb43a7d0,[],-71.05737626552582,63,True,15,False,False,"['CREDITCARD', 'KEY']",C32009,42.344040510016356,10
+64,classic,Congress St at Sleeper St,f83491d4-0de8-11e7-991c-3863bb43a7d0,[],-71.04930013418198,64,True,19,False,False,"['CREDITCARD', 'KEY']",C32010,42.351004495946704,10
+65,classic,Boston Convention and Exhibition Center - Summer St at West Side Dr,f834923d-0de8-11e7-991c-3863bb43a7d0,[],-71.0453599691391,65,True,23,False,False,"['CREDITCARD', 'KEY']",D32018,42.347763454147454,10
+66,classic,Commonwealth Ave at Griggs St,f83492b4-0de8-11e7-991c-3863bb43a7d0,[],-71.13275302578586,66,True,15,False,False,"['CREDITCARD', 'KEY']",A32017,42.34922469338298,10
+67,classic,MIT at Mass Ave / Amherst St,f83493c0-0de8-11e7-991c-3863bb43a7d0,[],-71.093198,67,True,27,False,True,"['CREDITCARD', 'KEY']",M32006,42.3581,8
+68,classic,Central Square at Mass Ave / Essex St,f8349440-0de8-11e7-991c-3863bb43a7d0,[],-71.1031,68,True,19,False,True,"['CREDITCARD', 'KEY']",M32011,42.36507,8
+69,classic,Coolidge Corner - Beacon St at Centre St,f83494b4-0de8-11e7-991c-3863bb43a7d0,[],-71.123338,69,True,19,False,True,"['CREDITCARD', 'KEY']",K32001,42.341598,4
+70,classic,Harvard Kennedy School at Bennett St / Eliot St,f834952a-0de8-11e7-991c-3863bb43a7d0,[],-71.12188071012497,70,True,23,False,False,"['CREDITCARD', 'KEY']",M32016,42.3722168027866,8
+71,classic,Conway Park - Somerville Avenue,f8349599-0de8-11e7-991c-3863bb43a7d0,[],-71.10853672027588,71,True,23,False,False,"['CREDITCARD', 'KEY']",S32004,42.383638948222654,9
+72,classic,One Broadway / Kendall Sq at Main St / 3rd St,f8349672-0de8-11e7-991c-3863bb43a7d0,[],-71.0831107199192,72,True,23,False,False,"['CREDITCARD', 'KEY']",M32003,42.36224178650923,8
+73,classic,Harvard Square at Brattle St / Eliot St,f8349745-0de8-11e7-991c-3863bb43a7d0,[],-71.12098601080106,73,True,15,False,False,"['CREDITCARD', 'KEY']",M32017,42.373328798874056,8
+74,classic,Harvard Square at Mass Ave/ Dunster,f83497b9-0de8-11e7-991c-3863bb43a7d0,[],-71.118579,74,True,19,False,True,"['CREDITCARD', 'KEY']",M32018,42.373268,8
+75,classic,Lafayette Square at Mass Ave / Main St / Columbia St,f8349824-0de8-11e7-991c-3863bb43a7d0,[],-71.10057324171066,75,True,15,False,False,"['CREDITCARD', 'KEY']",M32009,42.36346469304347,8
+76,classic,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,f8349b20-0de8-11e7-991c-3863bb43a7d0,[],-71.105495,76,True,17,False,False,"['CREDITCARD', 'KEY']",M32012,42.366426,8
+77,classic,Somerville City Hall,f8349ba9-0de8-11e7-991c-3863bb43a7d0,[],-71.09812,77,True,19,False,False,"['CREDITCARD', 'KEY']",S32001,42.386844,9
+78,classic,Union Square - Somerville,f8349c69-0de8-11e7-991c-3863bb43a7d0,[],-71.09540475672475,78,True,19,False,False,"['CREDITCARD', 'KEY']",S32002,42.37964789967527,9
+79,classic,Beacon St at Washington / Kirkland,f8349d6e-0de8-11e7-991c-3863bb43a7d0,[],-71.10707223415375,79,True,19,False,False,"['CREDITCARD', 'KEY']",S32003,42.37875351212593,9
+80,classic,MIT Stata Center at Vassar St / Main St,f8349de4-0de8-11e7-991c-3863bb43a7d0,[],-71.09115600585936,80,True,35,False,False,"['CREDITCARD', 'KEY']",M32005,42.3621312344991,8
+81,classic,Chinatown T Stop,f8349e56-0de8-11e7-991c-3863bb43a7d0,[],-71.062679,81,True,19,False,False,"['CREDITCARD', 'KEY']",D32019,42.352409,10
+82,classic,Beacon St at Tappan St,f8349ed6-0de8-11e7-991c-3863bb43a7d0,[],-71.13894682028331,82,True,15,False,False,"['CREDITCARD', 'KEY']",K32002,42.33826680058037,4
+84,classic,CambridgeSide Galleria - CambridgeSide PL at Land Blvd,f834a1de-0de8-11e7-991c-3863bb43a7d0,[],-71.07679277658461,84,True,15,False,False,"['CREDITCARD', 'KEY']",M32019,42.367074071490926,8
+85,classic,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,f834a2a8-0de8-11e7-991c-3863bb43a7d0,[],-71.048927,85,True,19,False,False,"['CREDITCARD', 'KEY']",D32023,42.378338,10
+86,classic,Brookline Village - Station Street at MBTA,f834a32d-0de8-11e7-991c-3863bb43a7d0,[],-71.11626680949485,86,True,19,False,False,"['CREDITCARD', 'KEY']",K32003,42.33274392304887,4
+87,classic,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,f834a3a0-0de8-11e7-991c-3863bb43a7d0,[],-71.114214,87,True,15,False,False,"['CREDITCARD', 'KEY']",M32014,42.366621,8
+89,classic,Harvard Law School at Mass Ave / Jarvis St,f834a67b-0de8-11e7-991c-3863bb43a7d0,[],-71.119945,89,True,19,False,False,"['CREDITCARD', 'KEY']",M32020,42.379011,8
+90,classic,Lechmere Station at Cambridge St / First St,f834a6f9-0de8-11e7-991c-3863bb43a7d0,[],-71.076529,90,True,19,False,False,"['CREDITCARD', 'KEY']",M32001,42.370677,8
+91,classic,One Kendall Square at Hampshire St / Portland St,f834a7d1-0de8-11e7-991c-3863bb43a7d0,[],-71.09169,91,True,19,False,False,"['CREDITCARD', 'KEY']",M32002,42.366277,8
+92,classic,University of Massachusetts Boston - Campus Center,f834a838-0de8-11e7-991c-3863bb43a7d0,[],-71.03648586203235,92,True,19,False,False,"['CREDITCARD', 'KEY']",C32014,42.31218918475612,10
+93,classic,JFK/UMass T Stop,f834a8a0-0de8-11e7-991c-3863bb43a7d0,[],-71.05118036270142,93,True,15,False,False,"['CREDITCARD', 'KEY']",C32013,42.32033973515723,10
+94,classic,Main St at Austin St,f834a959-0de8-11e7-991c-3863bb43a7d0,[],-71.064608,94,True,11,False,False,"['CREDITCARD', 'KEY']",D32020,42.375603,10
+95,classic,Cambridge St - at Columbia St / Webster Ave,f834ab92-0de8-11e7-991c-3863bb43a7d0,[],-71.094445,95,True,15,False,False,"['CREDITCARD', 'KEY']",M32007,42.372969,8
+96,classic,Cambridge Main Library at Broadway / Trowbridge St,f834abfd-0de8-11e7-991c-3863bb43a7d0,[],-71.111075,96,True,19,False,False,"['CREDITCARD', 'KEY']",M32013,42.373379,8
+97,classic,Harvard University River Houses at DeWolfe St / Cowperthwaite St,f834b101-0de8-11e7-991c-3863bb43a7d0,[],-71.11687034368515,97,True,19,False,False,"['CREDITCARD', 'KEY']",M32038,42.369239074859216,8
+98,classic,Warren St at Chelsea St,f834b183-0de8-11e7-991c-3863bb43a7d0,[],-71.060292,98,True,23,False,True,"['CREDITCARD', 'KEY']",D32021,42.371848,10
+99,classic,Wilson Square,f834b1ed-0de8-11e7-991c-3863bb43a7d0,[],-71.11412136298895,99,True,15,False,False,"['CREDITCARD', 'KEY']",S32005,42.38567578752914,9
+100,classic,Davis Square,f834b42d-0de8-11e7-991c-3863bb43a7d0,[],-71.123024,100,True,25,False,True,"['CREDITCARD', 'KEY']",S32006,42.396969,9
+101,classic,Ball Sq,f834b49d-0de8-11e7-991c-3863bb43a7d0,[],-71.11102235516228,101,True,19,False,False,"['CREDITCARD', 'KEY']",S32007,42.39920335720869,9
+102,classic,Powder House Circle - Nathan Tufts Park,f834b50a-0de8-11e7-991c-3863bb43a7d0,[],-71.116772,102,True,15,False,False,"['CREDITCARD', 'KEY']",S32008,42.400877,9
+103,classic,JFK Crossing at Harvard St. / Thorndike St.,f834b5d9-0de8-11e7-991c-3863bb43a7d0,[],-71.1283321143128,103,True,15,False,False,"['CREDITCARD', 'KEY']",K32004,42.346551241753566,4
+104,classic,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,f834b652-0de8-11e7-991c-3863bb43a7d0,[],-71.125107,104,True,19,False,False,"['CREDITCARD', 'KEY']",M32024,42.380287,8
+105,classic,Lower Cambridgeport at Magazine St / Riverside Rd,f834b8b3-0de8-11e7-991c-3863bb43a7d0,[],-71.1138716340065,105,True,19,False,False,"['CREDITCARD', 'KEY']",M32022,42.357218503176526,8
+106,classic,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,f834b928-0de8-11e7-991c-3863bb43a7d0,[],-71.075354,106,True,15,False,False,"['CREDITCARD', 'KEY']",C32015,42.325333,10
+107,classic,Ames St at Main St,f834b99d-0de8-11e7-991c-3863bb43a7d0,"[{'service_type': 'ATTENDED_SERVICE', 'id': 'f834b99d-0de8-11e7-991c-3863bb43a7d0', 'description': '', 'name': 'Valet Service', 'bikes_availability': 'UNLIMITED', 'link_for_more_info': '', 'off_dock_bikes_count': 88, 'docks_availability': 'NONE', 'off_dock_remaining_bike_capacity': -38, 'schedule_description': ''}]",-71.08822,107,True,19,False,False,"['CREDITCARD', 'KEY']",M32037,42.3625,8
+108,classic,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,f834ba08-0de8-11e7-991c-3863bb43a7d0,[],-71.116865,108,True,17,False,False,"['CREDITCARD', 'KEY']",M32023,42.377945,8
+109,classic,West End Park,f834bbdd-0de8-11e7-991c-3863bb43a7d0,[],-71.06446668505669,109,True,35,False,False,"['CREDITCARD', 'KEY']",D32022,42.36590788445084,10
+110,classic,Harvard University Gund Hall at Quincy St / Kirkland St,f834c5c9-0de8-11e7-991c-3863bb43a7d0,[],-71.114025,110,True,15,False,False,"['CREDITCARD', 'KEY']",M32021,42.376369,8
+111,classic,Packard Ave at Powderhouse Blvd,f834c6f5-0de8-11e7-991c-3863bb43a7d0,[],-71.123413,111,True,15,False,False,"['CREDITCARD', 'KEY']",S32009,42.40449,9
+112,classic,Clarendon Hill at Broadway,f834c7a9-0de8-11e7-991c-3863bb43a7d0,[],-71.132446,112,True,15,False,False,"['CREDITCARD', 'KEY']",S32010,42.406302,9
+113,classic,Andrew T Stop - Dorchester Ave at Dexter St,f834ca55-0de8-11e7-991c-3863bb43a7d0,[],-71.05699850837482,113,True,15,False,False,"['CREDITCARD', 'KEY']",C32012,42.33073332585453,10
+114,classic,Teele Square,f834caf2-0de8-11e7-991c-3863bb43a7d0,[],-71.12671129423688,114,True,15,False,False,"['CREDITCARD', 'KEY']",S32011,42.40231703379005,9
+115,classic,Porter Square Station,f834cb89-0de8-11e7-991c-3863bb43a7d0,[],-71.119084,115,True,19,False,False,"['CREDITCARD', 'KEY']",M32029,42.387995,8
+116,classic,359 Broadway - Broadway at Fayette Street,f834cf45-0de8-11e7-991c-3863bb43a7d0,[],-71.104412,116,True,23,False,False,"['CREDITCARD', 'KEY']",M32026,42.370803,8
+117,classic,Binney St / Sixth St,f834cfd8-0de8-11e7-991c-3863bb43a7d0,[],-71.08633603909765,117,True,19,False,False,"['CREDITCARD', 'KEY']",M32027,42.36608797388682,8
+118,classic,Linear Park - Mass. Ave. at Cameron Ave. ,f834d064-0de8-11e7-991c-3863bb43a7d0,[],-71.130516,118,True,19,False,False,"['CREDITCARD', 'KEY']",M32025,42.397828,8
+119,classic,South Boston Library - 646 E Broadway,f834d260-0de8-11e7-991c-3863bb43a7d0,[],-71.03877,119,True,15,False,False,"['CREDITCARD', 'KEY']",C32017,42.335741,10
+120,classic,Beacon St at Charles St,f834d34b-0de8-11e7-991c-3863bb43a7d0,[],-71.069849,120,True,19,False,False,"['CREDITCARD', 'KEY']",D32024,42.356052,10
+121,classic,W Broadway at Dorchester St,f834db9b-0de8-11e7-991c-3863bb43a7d0,[],-71.04622899561036,121,True,17,False,False,"['CREDITCARD', 'KEY']",C32016,42.335958979433094,10
+122,classic,Burlington Ave at Brookline Ave,f834dc46-0de8-11e7-991c-3863bb43a7d0,[],-71.100694,122,True,15,False,False,"['CREDITCARD', 'KEY']",B32020,42.345733,10
+124,classic,Curtis Hall - South St at Centre St,f834dedf-0de8-11e7-991c-3863bb43a7d0,[],-71.11543,124,True,15,False,False,"['CREDITCARD', 'KEY']",E32001,42.309054,10
+125,classic,Hyde Square - Barbara St at Centre St,f834e1b2-0de8-11e7-991c-3863bb43a7d0,[],-71.10984160567114,125,True,15,False,False,"['CREDITCARD', 'KEY']",E32003,42.32176525723952,10
+126,classic,Egleston Square - Atherton St at Washington St,f834e244-0de8-11e7-991c-3863bb43a7d0,[],-71.098634,126,True,15,False,False,"['CREDITCARD', 'KEY']",E32004,42.315692,10
+128,classic,E Cottage St at Columbia Rd,f834e534-0de8-11e7-991c-3863bb43a7d0,[],-71.06198,128,True,19,False,False,"['CREDITCARD', 'KEY']",C32018,42.320561,10
+129,classic,Hayes Square - Vine St at Moulton St,f834e75d-0de8-11e7-991c-3863bb43a7d0,[],-71.056605,129,True,19,False,False,"['CREDITCARD', 'KEY']",D32026,42.377022,10
+130,classic,Uphams Corner,f834ea45-0de8-11e7-991c-3863bb43a7d0,[],-71.06537003967787,130,True,15,False,False,"['CREDITCARD', 'KEY']",C32019,42.31727474327453,10
+131,classic,Jackson Square T Stop,f834ec42-0de8-11e7-991c-3863bb43a7d0,[],-71.10014140605927,131,True,18,False,True,"['CREDITCARD', 'KEY']",E32006,42.32293117195949,10
+133,classic,Green Street T Stop - Green St at Amory St,f834f036-0de8-11e7-991c-3863bb43a7d0,[],-71.107341,133,True,23,False,False,"['CREDITCARD', 'KEY']",E32005,42.310579,10
+135,classic,ID Building East,f834f6a3-0de8-11e7-991c-3863bb43a7d0,[],-71.028664,135,True,17,False,False,"['CREDITCARD', 'KEY']",C32020,42.344827,10
+136,classic,ID Building West,f834f814-0de8-11e7-991c-3863bb43a7d0,[],-71.031614,136,True,19,False,False,"['CREDITCARD', 'KEY']",C32021,42.344796,10
+137,classic,Magoun Square at Trum Field,f834f8ca-0de8-11e7-991c-3863bb43a7d0,[],-71.10594004465383,137,True,19,False,False,"['CREDITCARD', 'KEY']",S32013,42.39778339961249,9
+138,classic,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,f834f948-0de8-11e7-991c-3863bb43a7d0,[],-71.066498,138,True,15,False,False,"['CREDITCARD', 'KEY']",C32022,42.326599,10
+139,classic,Dana Park,f834fb66-0de8-11e7-991c-3863bb43a7d0,[],-71.10809952020645,139,True,19,False,False,"['CREDITCARD', 'KEY']",M32030,42.361780439606044,8
+140,classic,Danehy Park,f834fc57-0de8-11e7-991c-3863bb43a7d0,[],-71.132788,140,True,17,False,False,"['CREDITCARD', 'KEY']",M32031,42.388966,8
+141,classic,Kendall Street,f834fcbe-0de8-11e7-991c-3863bb43a7d0,[],-71.08216792345047,141,True,15,False,False,"['CREDITCARD', 'KEY']",M32032,42.363560158429884,8
+142,classic,Alewife Station at Russell Field,f834fd36-0de8-11e7-991c-3863bb43a7d0,[],-71.139459,142,True,23,False,False,"['CREDITCARD', 'KEY']",M32033,42.396105,8
+143,classic,EF - North Point Park,f834fda2-0de8-11e7-991c-3863bb43a7d0,[],-71.069957,143,True,23,False,False,"['CREDITCARD', 'KEY']",M32034,42.369885,8
+144,classic,Rogers St & Land Blvd,f834fede-0de8-11e7-991c-3863bb43a7d0,[],-71.07654601335526,144,True,19,False,False,"['CREDITCARD', 'KEY']",M32035,42.366446738529454,8
+145,classic,Rindge Avenue - O'Neill Library,f834ff5a-0de8-11e7-991c-3863bb43a7d0,[],-71.129042,145,True,19,False,False,"['CREDITCARD', 'KEY']",M32036,42.392766,8
+146,classic,Murphy Skating Rink - 1880 Day Blvd,f834ffc9-0de8-11e7-991c-3863bb43a7d0,[],-71.023739,146,True,19,False,False,"['CREDITCARD', 'KEY']",C32023,42.336448,10
+149,classic,175 N Harvard St,f8350129-0de8-11e7-991c-3863bb43a7d0,[],-71.129164,149,True,18,False,True,"['CREDITCARD', 'KEY']",A32019,42.363796,10
+150,classic,State Street at Channel Center,f8350199-0de8-11e7-991c-3863bb43a7d0,[],-71.052608,150,True,19,False,False,"['CREDITCARD', 'KEY']",C32024,42.344137,10
+151,classic,Surface Rd at India St,f8350204-0de8-11e7-991c-3863bb43a7d0,[],-71.052163,151,True,19,False,False,"['CREDITCARD', 'KEY']",A32013,42.358155,10
+152,classic,Ink Block - Harrison Ave at Herald St,f835027c-0de8-11e7-991c-3863bb43a7d0,[],-71.063187,152,True,27,False,True,"['CREDITCARD', 'KEY']",C32025,42.345901,10
+156,classic,Somerville Hospital,f835043d-0de8-11e7-991c-3863bb43a7d0,[],-71.10856622457504,156,True,15,False,False,"['CREDITCARD', 'KEY']",S32020,42.390446216041305,9
+157,classic,Seaport Blvd at Sleeper St,f8350a84-0de8-11e7-991c-3863bb43a7d0,[],-71.04817356923377,157,True,15,False,False,"['CREDITCARD', 'KEY']",C32036,42.35317809186252,10
+159,classic,S Huntington Ave at Heath St,f8350b76-0de8-11e7-991c-3863bb43a7d0,[],-71.11089169979095,159,True,15,False,False,"['CREDITCARD', 'KEY']",E32007,42.32760387040573,10
+160,classic,Wentworth Institute of Technology - Huntington Ave at Vancouver St,f8350be5-0de8-11e7-991c-3863bb43a7d0,[],-71.09627097845076,160,True,14,False,True,"['CREDITCARD', 'KEY']",B32021,42.33758601097239,10
+161,classic,W Broadway at D St,f8350c56-0de8-11e7-991c-3863bb43a7d0,[],-71.0514432,161,True,23,False,True,"['CREDITCARD', 'KEY']",C32029,42.3391085,10
+162,classic,Franklin Park - Seaver St at Humboldt Ave,f8350cc1-0de8-11e7-991c-3863bb43a7d0,[],-71.092225,162,True,15,False,False,"['CREDITCARD', 'KEY']",C32027,42.309796,10
+163,classic,The Lawn on D,f8350d30-0de8-11e7-991c-3863bb43a7d0,[],-71.044024,163,True,19,False,True,"['CREDITCARD', 'KEY']",C32028,42.344792,10
+167,classic,Ryan Playground - Dorchester Ave at Harbor View St,f8350ecf-0de8-11e7-991c-3863bb43a7d0,[],-71.056664,167,True,15,False,False,"['CREDITCARD', 'KEY']",C32031,42.317642,10
+169,classic,Edwards Playground - Main St at Eden St,f8351019-0de8-11e7-991c-3863bb43a7d0,[],-71.068607,169,True,19,False,False,"['CREDITCARD', 'KEY']",A32022,42.378965,10
+170,classic,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,f835108b-0de8-11e7-991c-3863bb43a7d0,[],-71.085347,170,True,14,False,True,"['CREDITCARD', 'KEY']",C32030,42.303469,10
+171,classic,Bunker Hill Community College,f83510fd-0de8-11e7-991c-3863bb43a7d0,[],-71.06905996799469,171,True,23,False,True,"['CREDITCARD', 'KEY']",A32023,42.37408991426522,10
+173,classic,Savin Hill T Stop - S Sydney St at Bay St,f83511d4-0de8-11e7-991c-3863bb43a7d0,[],-71.0539,173,True,14,False,True,"['CREDITCARD', 'KEY']",C32033,42.3106,10
+174,classic,Washington St at Brock St,f8351255-0de8-11e7-991c-3863bb43a7d0,[],-71.16031676530838,174,True,15,False,False,"['CREDITCARD', 'KEY']",D32029,42.3489528466951,10
+175,classic,Brighton Center - Washington St at Cambridge St,f83512c9-0de8-11e7-991c-3863bb43a7d0,[],-71.15027189254761,175,True,17,False,True,"['CREDITCARD', 'KEY']",D32028,42.34894857235593,10
+176,classic,Lesley University,f8351336-0de8-11e7-991c-3863bb43a7d0,[],-71.11901879310608,176,True,15,False,False,"['CREDITCARD', 'KEY']",M32039,42.38674802045056,8
+177,classic,University Park,f83513a7-0de8-11e7-991c-3863bb43a7d0,[],-71.10006093978882,177,True,19,False,False,"['CREDITCARD', 'KEY']",M32040,42.36264779118595,8
+178,classic,MIT Pacific St at Purrington St,f835141c-0de8-11e7-991c-3863bb43a7d0,[],-71.10129475593567,178,True,19,False,False,"['CREDITCARD', 'KEY']",M32041,42.35957320109044,8
+179,classic,MIT Vassar St,f8351490-0de8-11e7-991c-3863bb43a7d0,[],-71.10394477844238,179,True,53,False,False,"['CREDITCARD', 'KEY']",M32042,42.355601213279265,8
+180,classic,Mt Auburn,f83514f9-0de8-11e7-991c-3863bb43a7d0,[],-71.13320231437683,180,True,19,False,False,"['CREDITCARD', 'KEY']",M32043,42.37478628706384,8
+181,classic,Huron Ave At Vassal Lane,f8351569-0de8-11e7-991c-3863bb43a7d0,[],-71.13426981498378,181,True,19,False,False,"['CREDITCARD', 'KEY']",M32044,42.381650612901176,8
+182,classic,Museum of Science,f83515d8-0de8-11e7-991c-3863bb43a7d0,[],-71.07116281986237,182,True,19,False,True,"['CREDITCARD', 'KEY']",M32045,42.36769018024484,8
+183,classic,Alewife MBTA at Steel Place,f8351649-0de8-11e7-991c-3863bb43a7d0,[],-71.14260613918304,183,True,19,False,False,"['CREDITCARD', 'KEY']",M32046,42.395588457167094,8
+184,classic,Sidney Research Campus/Erie Street at Waverly,f83516b8-0de8-11e7-991c-3863bb43a7d0,[],-71.10393404960632,184,True,19,False,False,"['CREDITCARD', 'KEY']",M32047,42.35775309465199,8
+185,classic,Third at Binney,f8351726-0de8-11e7-991c-3863bb43a7d0,[],-71.08277142047882,185,True,15,False,False,"['CREDITCARD', 'KEY']",M32048,42.36544486137399,8
+186,classic,Congress St at Northern Ave,f8351791-0de8-11e7-991c-3863bb43a7d0,[],-71.03764,186,True,15,False,False,"['CREDITCARD', 'KEY']",C32032,42.3481,10
+187,classic,Cypress St at Clark Playground,f83517fa-0de8-11e7-991c-3863bb43a7d0,[],-71.1253622174263,187,True,15,False,False,"['CREDITCARD', 'KEY']",K32009,42.32784317478686,4
+188,classic,Foss Park,f8351dc2-0de8-11e7-991c-3863bb43a7d0,[],-71.09039425849915,188,True,15,False,False,"['CREDITCARD', 'KEY']",S32015,42.39108438146733,9
+189,classic,Kendall T,f8351e42-0de8-11e7-991c-3863bb43a7d0,[],-71.08495473861694,189,True,23,False,True,"['CREDITCARD', 'KEY']",M32004,42.362427842912396,8
+190,classic,Nashua Street at Red Auerbach Way,f8351eb0-0de8-11e7-991c-3863bb43a7d0,"[{'service_type': 'ATTENDED_SERVICE', 'id': 'f8351eb0-0de8-11e7-991c-3863bb43a7d0', 'description': '', 'name': 'Valet Service', 'bikes_availability': 'UNLIMITED', 'link_for_more_info': '', 'off_dock_bikes_count': 2, 'docks_availability': 'UNLIMITED', 'off_dock_remaining_bike_capacity': 18, 'schedule_description': ''}]",-71.064263,190,True,36,False,True,"['CREDITCARD', 'KEY']",A32025,42.365673,10
+191,classic,Tappan St at Brookline Hills MBTA,f8351f1d-0de8-11e7-991c-3863bb43a7d0,[],-71.1268836054569,191,True,15,False,False,"['CREDITCARD', 'KEY']",K32008,42.331370168043215,4
+192,classic,Purchase St at Pearl St,f8351f87-0de8-11e7-991c-3863bb43a7d0,[],-71.053181,192,True,19,False,False,"['CREDITCARD', 'KEY']",A32026,42.354659,10
+193,classic,Brookline Town Hall,f8351ff1-0de8-11e7-991c-3863bb43a7d0,[],-71.12046446660315,193,True,15,False,True,"['CREDITCARD', 'KEY']",K32005,42.33376472623494,4
+194,classic,Broadway St at Mt Pleasant St,f8352068-0de8-11e7-991c-3863bb43a7d0,[],-71.07828140258789,194,True,19,False,False,"['CREDITCARD', 'KEY']",S32014,42.386141411639564,9
+195,classic,Child Street at Brian P. Murphy Staircase,f83520d8-0de8-11e7-991c-3863bb43a7d0,[],-71.07200495972165,195,True,23,False,False,"['CREDITCARD', 'KEY']",M32049,42.371976784679745,8
+196,classic,Roxbury YMCA - Warren St at MLK Blvd,f8352150-0de8-11e7-991c-3863bb43a7d0,[],-71.08243077993393,196,True,10,False,True,"['CREDITCARD', 'KEY']",B32022,42.31787329345602,10
+197,classic,MLK Blvd at Washington St,f8352219-0de8-11e7-991c-3863bb43a7d0,[],-71.09126061201096,197,True,15,False,False,"['CREDITCARD', 'KEY']",B32023,42.32143814183195,10
+199,classic,Uphams Corner T Stop - Magnolia St at Dudley St,f8352306-0de8-11e7-991c-3863bb43a7d0,[],-71.0697814822197,199,True,15,False,False,"['CREDITCARD', 'KEY']",B32025,42.318697341722434,10
+200,classic,Washington St at Melnea Cass Blvd,f8352378-0de8-11e7-991c-3863bb43a7d0,[],-71.081198,200,True,19,False,False,"['CREDITCARD', 'KEY']",B32026,42.332817,10
+201,classic,NCAAA - Walnut Ave at Crawford St,f83523e3-0de8-11e7-991c-3863bb43a7d0,[],-71.091946,201,True,15,False,False,"['CREDITCARD', 'KEY']",B32027,42.316902,10
+202,classic,Grove Hall Library - 41 Geneva Ave,f835244e-0de8-11e7-991c-3863bb43a7d0,[],-71.080952,202,True,15,False,False,"['CREDITCARD', 'KEY']",B32028,42.30791,10
+203,classic,Columbia Rd at Ceylon St,f83524c0-0de8-11e7-991c-3863bb43a7d0,[],-71.0729,203,True,15,False,False,"['CREDITCARD', 'KEY']",B32029,42.309572,10
+204,classic,Walnut Ave at Warren St,f8352534-0de8-11e7-991c-3863bb43a7d0,[],-71.083235,204,True,15,False,False,"['CREDITCARD', 'KEY']",B32030,42.324081,10
+205,classic,Bowdoin St at Quincy St,f835259f-0de8-11e7-991c-3863bb43a7d0,[],-71.06512248516083,205,True,15,False,False,"['CREDITCARD', 'KEY']",B32031,42.30785224238503,10
+206,classic,Government Center - Cambridge St at Court St,f835260c-0de8-11e7-991c-3863bb43a7d0,[],-71.05979576244862,206,True,35,False,True,"['CREDITCARD', 'KEY']",B32032,42.3598253979878,10
+208,classic,Oak Square - 615 Washington St,f835288a-0de8-11e7-991c-3863bb43a7d0,[],-71.166491,208,True,15,False,True,"['CREDITCARD', 'KEY']",D32031,42.35057,10
+210,classic,Bennington St at Byron St,f8352973-0de8-11e7-991c-3863bb43a7d0,[],-71.01619094610214,210,True,15,False,False,"['CREDITCARD', 'KEY']",A32028,42.383532520117896,10
+211,classic,Piers Park,f83529e2-0de8-11e7-991c-3863bb43a7d0,[],-71.03528559207916,211,True,15,False,False,"['CREDITCARD', 'KEY']",A32029,42.36501119822304,10
+212,classic,Maverick Square - Lewis Mall,f8352a4d-0de8-11e7-991c-3863bb43a7d0,[],-71.03977829217911,212,True,33,False,False,"['CREDITCARD', 'KEY']",A32030,42.368844082898356,10
+213,classic,East Boston Neighborhood Health Center - 20 Maverick Square,f8352ac4-0de8-11e7-991c-3863bb43a7d0,[],-71.039431,213,True,16,False,True,"['CREDITCARD', 'KEY']",A32031,42.369536,10
+214,classic,Airport T Stop - Bremen St at Brooks St,f8352b39-0de8-11e7-991c-3863bb43a7d0,[],-71.03128910064696,214,True,15,False,True,"['CREDITCARD', 'KEY']",A32032,42.37534192670574,10
+215,classic,The Eddy - New St at Sumner St,f8352ba8-0de8-11e7-991c-3863bb43a7d0,[],-71.044201,215,True,15,False,False,"['CREDITCARD', 'KEY']",A32033,42.370744,10
+216,classic,Glendon St at Condor St,f8352c1a-0de8-11e7-991c-3863bb43a7d0,[],-71.03024303913116,216,True,19,False,False,"['CREDITCARD', 'KEY']",A32034,42.38240377674137,10
+217,classic,Orient Heights T Stop - Bennington St at Saratoga St,f8352c92-0de8-11e7-991c-3863bb43a7d0,[],-71.006098,217,True,19,False,False,"['CREDITCARD', 'KEY']",A32035,42.386781,10
+218,classic,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,f8353277-0de8-11e7-991c-3863bb43a7d0,[],-71.04569256305693,218,True,15,False,False,"['CREDITCARD', 'KEY']",C32034,42.351586001198456,10
+219,classic,Boston East - 126 Border St,f83532fa-0de8-11e7-991c-3863bb43a7d0,[],-71.0410200806291,219,True,15,False,False,"['CREDITCARD', 'KEY']",A32036,42.373312125824704,10
+221,classic,Verizon Innovation Hub 10 Ware Street,fbb9b58c-2b92-4bcf-8e4c-a982e40d2f39,[],-71.11305356025696,221,True,19,False,False,"['CREDITCARD', 'KEY']",M32050,42.37250864997261,8
+222,classic,Troy Boston,83183df0-38c2-4ae8-a0c4-4b59599c9582,[],-71.062256,222,True,14,False,True,"['CREDITCARD', 'KEY']",C32035,42.343749,10
+224,classic,Fresh Pond Reservation,1331197c-f6c6-4f4a-a29b-95e580359886,[],-71.143478951426,224,True,17,False,False,"['CREDITCARD', 'KEY']",M32051,42.38267827521855,8
+225,classic,Cambridge Dept. of Public Works -147 Hampshire St.,7560f0e3-267b-4fb3-bbfa-6e02010cfcb7,[],-71.09759867191315,225,True,19,False,False,"['CREDITCARD', 'KEY']",M32052,42.37119727759414,8
+226,classic,Commonwealth Ave At Babcock St,ea65c25f-0718-4f79-8588-c58b9fe3a105,[],-71.12126246094704,226,True,15,False,False,"['CREDITCARD', 'KEY']",K32006,42.35154734791375,4
+227,classic,Silber Way,36f36eed-1070-49be-8b31-5676b8b3489f,[],-71.10057592391968,227,True,19,False,False,"['CREDITCARD', 'KEY']",D32032,42.34949599514002,10
+228,classic,One Memorial Drive,a825b55d-3ab3-481f-9c50-d3a7313e6843,[],-71.0804355052096,228,True,19,False,False,"['CREDITCARD', 'KEY']",M32053,42.361619320766856,8
+232,classic,Four Corners - 157 Washington St,31382324-2931-491a-827a-40149e45afee,[],-71.07929527759552,232,True,11,False,False,"['CREDITCARD', 'KEY']",C32037,42.304127927390155,10
+233,classic,St Mary's,1cced911-b428-4cfd-81be-3a8f77ce7379,[],-71.10728681087494,233,True,15,False,False,"['CREDITCARD', 'KEY']",K32007,42.346197076555455,4
+234,classic,Broadway at Central St,625f105e-4407-4988-9095-d1979cbda5e1,[],-71.09850591982195,234,True,19,False,False,"['CREDITCARD', 'KEY']",S32016,42.39517150121575,9
+235,classic,East Somerville Library (Broadway and Illinois),25cc602a-152a-4abe-9df8-a131d0a5d94b,[],-71.08318716287613,235,True,15,False,False,"['CREDITCARD', 'KEY']",S32017,42.3876281075134,9
+236,classic,Assembly Square T,7c860828-3359-4229-b59b-963f5a4bab00,[],-71.07746601104736,236,True,15,False,True,"['CREDITCARD', 'KEY']",S32018,42.392232840046276,9
+239,classic,Community Path at Cedar Street,7df1ee28-441e-44c1-8507-8f58946be96b,[],-71.11133694648743,239,True,15,False,False,"['CREDITCARD', 'KEY']",S32022,42.39407223665884,9
+255,classic,Park St at Norwell St,103a9881-e30a-4d57-b81d-863b995ff759,[],-71.07821760713703,255,True,15,False,False,"['CREDITCARD', 'KEY']",C32039,42.29442578670662,10
+258,classic,Gallivan Blvd at Adams St,0839bb10-e876-4198-95e4-0147a561853d,[],-71.05466698296368,258,True,15,False,False,"['CREDITCARD', 'KEY']",C32040,42.28297567840305,10
+259,classic,Washington St at Bowdoin St,829fa5a8-cc88-4ab2-9f34-b481aaa1612e,[],-71.07345871645519,259,True,15,False,False,"['CREDITCARD', 'KEY']",C32042,42.299164979365884,10
+260,classic,Fields Corner T Stop,8d893519-bc21-4536-b346-f558988bc8ad,[],-71.06068975823291,260,True,15,False,False,"['CREDITCARD', 'KEY']",C32041,42.299633488420625,10
+271,classic,Ashmont T Stop,57caf362-1e8b-46aa-9ee3-82341c405ab0,[],-71.0641389,271,True,15,False,False,"['CREDITCARD', 'KEY']",C32062,42.2856944,10
+272,classic,Shawmut T Stop,ea00f276-26dc-48ee-b2c8-6e56fd632a2d,[],-71.06575,272,True,19,False,False,"['CREDITCARD', 'KEY']",E32009,42.292917,10
+273,classic,Forest Hills,4764641e-b080-4c70-a1e1-049de81e09d0,[],-71.114249,273,True,40,False,False,"['CREDITCARD', 'KEY']",E32010,42.300923,10
+279,classic,Williams St at Washington St,c202f2ca-ec1d-4dc5-a734-e0a342f23ba4,[],-71.107669,279,True,23,False,False,"['CREDITCARD', 'KEY']",D32040,42.306539,10
+280,classic,Main St at Baldwin St,7f68a70d-af0e-450a-b7a8-ce621cd0c8c1,[],-71.070629,280,True,19,False,False,"['CREDITCARD', 'KEY']",D32036,42.380857,10
+282,classic,Stony Brook T Stop,c98f50f6-1901-4c64-b164-8cf33245e022,[],-71.104374,282,True,19,False,False,"['CREDITCARD', 'KEY']",D32041,42.316966,10
+296,classic,Farragut Rd at E. 6th St,74cb9bf6-bb53-4c70-88d2-67998b99628c,[],-71.02495,296,True,22,False,False,"['CREDITCARD', 'KEY']",C32051,42.3334,10
+318,classic,Ames St at Broadway,dd05a440-f881-410c-a071-864da11c634a,[],-71.0875672,318,True,19,False,False,"['CREDITCARD', 'KEY']",M32059,42.3636929,8
+319,classic,84 Cambridgepark Dr,bd3d4824-7203-4edc-a314-cea2b413e886,[],-71.143941,319,True,27,False,False,"['CREDITCARD', 'KEY']",M32058,42.3936,8
+327,classic,Main St at Thompson Sq,3dbbb3cb-b52d-46f8-8f9c-db11e83d081c,[],-71.06383498767171,327,True,15,False,False,"['CREDITCARD', 'KEY']",D32038,42.374878467440965,10
+328,classic,Grove St at Community Path,baab0b05-a028-4147-8432-a2726c7e48ea,[],-71.12011306006025,328,True,15,False,False,"['CREDITCARD', 'KEY']",S32019,42.396386809455,9
+329,classic,Washington St at Myrtle St,13681246-4bf8-444a-a908-fa165e4ad298,[],-71.0839523,329,True,15,False,False,"['CREDITCARD', 'KEY']",S32021,42.3817508,9
+330,classic,30 Dane St,f2b83aa2-86cd-4904-a099-74bf2023f768,[],-71.10402522613185,330,True,15,False,False,"['CREDITCARD', 'KEY']",S32023,42.38100143038052,9
+331,classic,Huntington Ave at Mass Art,5018e851-f2f3-4e18-9914-c316bbcc2c3d,[],-71.0988699646623,331,True,15,False,False,"['CREDITCARD', 'KEY']",B32033,42.336585554561154,10
+332,classic,Harvard Ave at Brainerd Rd,bb27977d-36c1-496d-8bac-631b612dd7b8,[],-71.13022770741735,332,True,15,False,False,"['CREDITCARD', 'KEY']",D32035,42.34953016890375,10
+333,classic,699 Mt Auburn St,93381e13-cd04-4e10-ac81-9f5926aa01d5,[],-71.14871613699506,333,True,25,False,False,"['CREDITCARD', 'KEY']",M32054,42.37500235137831,8
+334,classic,Mass Ave at Hadley/Walden,1e3beeb4-f8e1-452c-93e5-48df78d4b313,[],-71.12260755160605,334,True,19,False,False,"['CREDITCARD', 'KEY']",M32056,42.39120971915856,8
+335,classic,Harvard St at Greene-Rose Heritage Park,70f20fcb-8e63-4015-9007-b97c525ab0a9,[],-71.09522221614498,335,True,19,False,False,"['CREDITCARD', 'KEY']",M32055,42.36599432867437,8
+336,classic,Mattapan T Stop,b5894555-30a3-46db-918a-fdeb083d6001,[],-71.093641,336,True,15,False,False,"['CREDITCARD', 'KEY']",C32045,42.267902,10
+337,classic,Roslindale Village - South St,5b1d2661-8a93-4f14-b242-ebc52792f951,[],-71.127754,337,True,15,False,False,"['CREDITCARD', 'KEY']",C32047,42.287072,10
+338,classic,Commonwealth Ave at Kelton St,0adccd89-1d8d-44da-9f7c-5f18acafeddf,[],-71.13997217276847,338,True,15,False,False,"['CREDITCARD', 'KEY']",D32034,42.348358628170445,10
+339,classic,Archdale Rd at Washington St,1ef9964d-47ac-4cd4-916e-7c006fa1e605,[],-71.12119538714069,339,True,15,False,False,"['CREDITCARD', 'KEY']",C32048,42.29266592872725,10
+340,classic,Blue Hill Ave at Almont St,e32c0bb9-e85b-4764-b0fb-5c582cfd3a90,[],-71.09372552493369,340,True,19,False,False,"['CREDITCARD', 'KEY']",C32044,42.274620671812244,10
+341,classic,Roslindale Village - Washington St,aa964f5b-fadf-4fc1-8c91-84ee36e15f0d,[],-71.12820532182013,341,True,15,False,True,"['CREDITCARD', 'KEY']",C32046,42.28630716010807,10
+342,classic,Boylston St at Jersey St,47c44bb1-d065-41f5-ad79-c18aee60af34,[],-71.09732501226972,342,True,15,False,False,"['CREDITCARD', 'KEY']",B32034,42.344650628878306,10
+343,classic,Morton St T,b205d2bb-bb76-49ac-8d14-85eec5a874d3,[],-71.08617242434775,343,True,15,False,False,"['CREDITCARD', 'KEY']",C23045,42.280725142920296,10
+344,classic,Commonwealth Ave at Chiswick Rd,51bb4381-dae4-4aeb-b213-0614b807be29,[],-71.15168806174552,344,True,19,False,False,"['CREDITCARD', 'KEY']",D32033,42.34024644768889,10
+345,classic,Park Plaza at Charles St S.,df03c61a-29d7-445d-9980-d7f058916591,[],-71.06781138111728,345,True,19,False,False,"['CREDITCARD', 'KEY']",D32042,42.351828068920675,10
+346,classic,Cleveland Circle,25a9114f-66f0-427c-920f-5526ca84f056,[],-71.15061519672052,346,True,15,False,False,"['CREDITCARD', 'KEY']",B32035,42.335543083570826,10
+347,classic,Thetford Ave at Norfolk St,b0b8e427-7203-4844-9c70-129e08a74452,[],-71.07942931372236,347,True,15,False,False,"['CREDITCARD', 'KEY']",C32049,42.286212948246096,10
+348,classic,Talbot Ave At Blue Hill Ave,97a1e4e7-a1ff-427a-aaea-48ca0d00bf9c,[],-71.087111,348,True,15,False,False,"['CREDITCARD', 'KEY']",C32043,42.2945833,10
+349,classic,Washington St at Talbot Ave,eb8824c3-9c84-4fec-8d6f-d537c8ab3beb,[],-71.071806,349,True,17,False,True,"['CREDITCARD', 'KEY']",C32038,42.290333,10
+350,classic,Codman Square Library,ccf82572-a142-4378-9a4b-5a51fcb4ef81,[],-71.071111,350,True,17,False,False,"['CREDITCARD', 'KEY']",C32055,42.2873611,10
+351,classic,Faneuil St at Arlington St,83852166-6e71-4f69-ba83-020a4c644b86,[],-71.15988485533308,351,True,15,False,False,"['CREDITCARD', 'KEY']",A32038,42.35276620545606,10
+352,classic,Ring Rd,548b9fdd-c5a1-4638-8e45-36cf549591be,[],-71.08044855314802,352,True,15,False,False,"['CREDITCARD', 'KEY']",C32058,42.348278385426255,10
+353,classic,Mattapan Library,b995a0b4-fc26-4661-9bc8-e166d648edfd,[],-71.09325,353,True,15,False,False,"['CREDITCARD', 'KEY']",C32050,42.2773889,10
+354,classic,Washington St at Egremont Rd,510239fe-69c3-458b-b53c-6ce001845f4a,[],-71.14127840855872,354,True,15,False,False,"['CREDITCARD', 'KEY']",A32037,42.34286835071959,10
+355,classic,Bennington St at Constitution Beach,fe6a64e7-c712-404c-85ae-ee77a37245b1,[],-71.01063068965232,355,True,17,False,False,"['CREDITCARD', 'KEY']",A32039,42.385223935870535,10
+356,classic,Charlestown Navy Yard,23146f28-9762-4a6d-a6db-fcd4ff0e5d07,[],-71.05481199938367,356,True,23,False,False,"['CREDITCARD', 'KEY']",D32039,42.374124549426526,10
+357,classic,Centre St at Seaverns Ave,81676204-e42f-4d3d-991e-9c1264f36229,[],-71.1142981,357,True,15,False,False,"['CREDITCARD', 'KEY']",E32008,42.3121203,10
+358,classic,Medford St at Charlestown BCYF,a18e1e55-507e-49d8-b7c0-5c0efd959125,[],-71.06055721676967,358,True,19,False,False,"['CREDITCARD', 'KEY']",D32037,42.380429474494896,10
+359,classic,One Brigham Circle,f24a573e-ef07-4785-9270-70c443510ea6,[],-71.10446508982932,359,True,15,False,False,"['CREDITCARD', 'KEY']",B32036,42.333922701369964,10
+360,classic,Bartlett St at John Elliot Sq,8b703219-1e16-4ba1-9f46-2b7030c7849a,[],-71.0901582,360,True,15,False,False,"['CREDITCARD', 'KEY']",B32055,42.3294633,10
+361,classic,Deerfield St at Commonwealth Ave,e2c306f6-82c7-4d0d-89fd-c9452d2f9ad1,[],-71.09728209692548,361,True,19,False,False,"['CREDITCARD', 'KEY']",B32037,42.34924376955301,10
+362,classic,Columbia Rd at Tierney Community Center,52ca4d94-587f-4a61-a298-a1a755e73bfb,[],-71.05060093123029,362,True,19,False,False,"['CREDITCARD', 'KEY']",C32052,42.33023070528729,10
+363,classic,Harrison Ave at Mullins Way,81bfc33b-30d8-4881-b261-712715a8b2bc,[],-71.0638403149278,363,True,19,False,False,"['CREDITCARD', 'KEY']",C32057,42.34521562115022,10
+364,classic,Tremont St at Northampton St,8bc42f7f-753d-4cca-a7d6-0d7c2530ea2c,[],-71.08169049924982,364,True,19,False,False,"['CREDITCARD', 'KEY']",C32056,42.338431795290944,10
+365,classic,Harrison Ave at Bennet St,fbc512a5-4b98-4821-bcfb-bb0c7ac83543,[],-71.06209959843909,365,True,19,False,False,"['CREDITCARD', 'KEY']",D32043,42.34942609892521,10
+366,classic,Broadway T Stop,56817d8e-3a1c-431a-a529-1a600f80c364,[],-71.05747275072645,366,False,0,False,False,"['CREDITCARD', 'KEY']",C32053,42.34278116224413,10
+367,classic,Vassal Lane at Tobin/VLUS,02a4416f-80b4-4472-accd-5db482ed5b6d,[],-71.13775670528412,367,True,19,False,False,"['CREDITCARD', 'KEY']",M32057,42.38536765218425,8
+368,classic,Blue Hill Ave at Southwood St,eed9e64f-f09d-43c1-aa31-da968c66750a,[],-71.07798628527235,368,True,15,False,False,"['CREDITCARD', 'KEY']",B32057,42.317860205899876,10
+369,classic,Boston Public Market,3df7aad4-5696-46d1-9d49-7e1e040a1282,[],-71.0573735833168,369,False,0,False,False,"['CREDITCARD', 'KEY']",D32044,42.36254854409333,10
+370,classic,Dartmouth St at Newbury St,803a0c16-4f81-44f1-8b49-a13fcdda40c1,[],-71.07782810926437,370,True,19,False,False,"['CREDITCARD', 'KEY']",D32045,42.35096144421219,10
+371,classic,700 Huron Ave,9e9be067-c6bb-41de-9491-eda69d24d6de,[],-71.15412890911102,371,True,19,False,False,"['CREDITCARD', 'KEY']",M32060,42.380788172914286,8
+372,classic,Boylston St at Exeter St,cad0e759-b605-458a-b772-768dcce81dc6,[],-71.0794677917329,372,True,19,False,False,"['CREDITCARD', 'KEY']",D32046,42.349589423682445,10
+373,classic,Belgrade Ave at Walworth St,ba634139-d7bf-448f-aac4-25995d36b67b,[],-71.13672129828046,373,True,15,False,False,"['CREDITCARD', 'KEY']",C32059,42.28634589486312,10
+374,classic,Tremont St at Hamilton Pl,1676a6f7-c417-48d2-92e8-5ce21995efc3,[],-71.06166645884514,374,True,19,False,True,"['CREDITCARD', 'KEY']",B32056,42.35668334969929,10
+376,classic,Honan Library,c5cfd1ed-aa44-4e20-96bb-e334c96f0d68,[],-71.12852452327388,376,True,15,False,True,"['CREDITCARD', 'KEY']",A32040,42.36027370454934,10
+377,classic,Perry Park,5bbdd12f-fec4-4741-9d5d-4a60834c5d02,[],-71.10341902831351,377,True,19,False,False,"['CREDITCARD', 'KEY']",S32034,42.37927324600841,9
+378,classic,191 Beacon St,ec3eea05-a3ff-43c6-9e24-0c63f09b915f,[],-71.10878612855231,378,True,19,False,False,"['CREDITCARD', 'KEY']",S32035,42.38032335045416,9
+379,classic,Tremont St at W. Dedham St,342a2c60-71b0-4d19-98d6-47987cf20dbc,[],-71.07421449387857,379,True,15,False,False,"['CREDITCARD', 'KEY']",C32060,42.34254913737952,10
+380,classic,Mass Ave at Albany St,f6df6c1a-064f-428a-951c-2069a081b9df,[],-71.09670273977825,380,True,18,False,False,"['CREDITCARD', 'KEY']",M32061,42.36135837662249,8
+381,classic,Inman Square at Springfield St.,2104f242-2dde-4ec0-8197-4454b1021ac1,[],-71.10026478767395,381,True,25,False,False,"['CREDITCARD', 'KEY']",M32062,42.37426713524931,8
+384,classic,Clarendon St at Newbury St,8983c75a-12c1-4995-aedc-24c94bd895e3,[],-71.0756166279316,384,True,19,False,False,"['CREDITCARD', 'KEY']",D32047,42.35159662465317,10
+385,classic,Albany St at E. Brookline St,1e1b40cd-8e00-4b74-b147-be6b23f5c9e7,[],-71.0689445958451,385,True,15,False,False,"['CREDITCARD', 'KEY']",C32061,42.33664795427071,10
+386,classic,Sennott Park Broadway at Norfolk Street,5bc7cba9-f0b0-442d-932c-e8c7927d87ce,[],-71.09930185605663,386,True,19,False,False,"['CREDITCARD', 'KEY']",M32063,42.36860524248197,8
+387,classic,7 Acre Park,53a148ca-ac69-4a9c-a986-9a4b4df2f5df,[],-71.06823265090497,387,True,15,False,False,"['CREDITCARD', 'KEY']",V32001,42.41143222973408,104
+389,classic,Everett Square (Broadway at Chelsea St),25489822-e43a-4704-b2a8-d905b78ba77c,[],-71.05650289605819,389,True,16,False,False,"['CREDITCARD', 'KEY']",V32003,42.406956789102416,104
+390,classic,Broadway at Lynde St,3f4f4ad4-a715-43d5-828f-f8381f26b66a,[],-71.06546759905541,390,True,15,False,False,"['CREDITCARD', 'KEY']",V32004,42.39648358247693,104
+391,classic,Encore,f7d416f8-4377-4019-bba7-302dc1d5a11d,[],-71.0724475979805,391,True,15,False,False,"['CREDITCARD', 'KEY']",V32005,42.39329263225162,104
+392,classic,Glendale Square (Ferry St at Broadway),d22265a8-a6d7-4922-a6b5-4be738a9e5c4,[],-71.04479655659816,392,True,15,False,False,"['CREDITCARD', 'KEY']",V32006,42.41427294293992,104
+393,classic,Swan St. Park,4b5de733-9353-4873-9dc2-9558b3cb063a,[],-71.05842225271772,393,True,15,False,False,"['CREDITCARD', 'KEY']",V32007,42.412504507772105,104
+394,classic,Broadway at Maple St,f0f01d4c-ba4a-4ab2-9cc0-9fa1f9223300,[],-71.05260457852637,394,True,14,False,False,"['CREDITCARD', 'KEY']",V32008,42.410346909767846,104
+395,classic,Chelsea St at Vine St,fe534b6f-61ad-47d3-b9f6-cdaa128f53a4,[],-71.04762639859473,395,True,15,False,False,"['CREDITCARD', 'KEY']",V32009,42.40328056972533,104
+396,classic,Wasgott Playground,a5600f2e-baaa-43ea-bce5-880179f38599,[],-71.06381878293178,396,True,15,False,False,"['CREDITCARD', 'KEY']",V32010,42.4093300667225,104
+397,classic,Broadway at Beacham St,13444449-b3a8-43d2-b8b9-a59fbc59a174,[],-71.06373842814719,397,True,8,False,False,"['CREDITCARD', 'KEY']",V32011,42.39836059620832,104
+398,classic,75 Binney St,133d159e-a202-4310-910f-eca392fe181e,[],-71.0801375997653,398,True,19,False,False,"['CREDITCARD', 'KEY']",M32064,42.36550728505653,8
+399,classic,Shawmut Ave at Oak St W,53548ba4-ad0a-4d92-8e57-fd5c9f3ad102,[],-71.06559185315746,399,True,15,False,False,"['CREDITCARD', 'KEY']",D32048,42.34854543411198,10
+400,classic,Lansdowne T Stop,99675a11-a92c-465c-bf5a-434b08ba5fc6,[],-71.1001680795016,400,True,27,False,False,"['CREDITCARD', 'KEY']",B32058,42.34734473177431,10
+401,classic,High St at Cypress St,186accbb-6a08-4e1d-b267-9033c4443a56,[],-71.12135231494904,401,True,15,False,False,"['CREDITCARD', 'KEY']",K32010,42.32464510949409,4
+402,classic,Washington Sq,270ad97d-035d-472a-9827-76d3187afc56,[],-71.13421171095978,402,True,15,False,False,"['CREDITCARD', 'KEY']",K32011,42.33985827126298,4
+403,classic,Marion St at Harvard St,0daf7408-7a15-4d2b-8c39-f1a097cdbe85,[],-71.12070563810447,403,True,15,False,False,"['CREDITCARD', 'KEY']",K32012,42.340122426966424,4
+404,classic,Mass Ave T Station,ad2cf74c-0e8c-4e15-8f19-2259e8c82f0f,[],-71.08336953450817,404,True,16,False,False,"['CREDITCARD', 'KEY']",C32063,42.34135615767354,10
+405,classic,Sydney St at Carson St,f8285d4f-5053-4e26-bb28-72016fe11353,[],-71.05355408051764,405,True,19,False,False,"['CREDITCARD', 'KEY']",C32064,42.32039374304257,10
+406,classic,Somerville City Hall Annex,88b35b6d-f355-44dc-b85e-ed2eb1bc9099,[],-71.09745375830244,406,True,19,False,False,"['CREDITCARD', 'KEY']",S32036,42.39189811591863,9
+407,classic,Craigie at Summer St,403c0f6c-d01a-4171-a7be-3aa4dbb0d7d1,[],-71.1106824874878,407,True,19,False,False,"['CREDITCARD', 'KEY']",S32037,42.38831607584243,9
+408,classic,Edgerly Education Center,42886366-9cbf-432c-ba84-beef38877c87,[],-71.08714388528824,408,True,15,False,False,"['CREDITCARD', 'KEY']",S32038,42.38717463348314,9
+409,classic,Elm St at White St,171f821a-93cf-4791-b322-0834a29c2c5a,[],-71.11694140364307,409,True,2,False,False,"['CREDITCARD', 'KEY']",S32039,42.38952436305763,9
+410,classic,Adams St at Lonsdale St,ef54374b-0406-4b17-b0a1-847f1d7bea06,[],-71.05726346409938,410,True,14,False,False,"['CREDITCARD', 'KEY']",C32065,42.291679428741226,10
+412,classic,Washington St at Peters Park,295553ea-851b-4ac2-a094-f9d1208e399a,[],-71.06688730436872,412,True,19,False,False,"['CREDITCARD', 'KEY']",C32067,42.34303291130257,10
+413,classic,Kennedy-Longfellow School 158 Spring St,9ca92778-9101-48df-90ea-08b784e26a1a,[],-71.08579014980933,413,True,19,False,False,"['CREDITCARD', 'KEY']",M32065,42.36955297756508,8
+414,classic,Discovery Park - 30 Acorn Park Drive,8347c34d-68df-404b-ac58-7a387cc3ce4b,[],-71.14797130814623,414,True,23,False,False,"['CREDITCARD', 'KEY']",M32066,42.39790817368333,8
+415,classic,Stuart St at Berkeley St,36a8fbc8-6069-4a29-bbfd-63a2d019c9a5,[],-71.0724207387284,415,True,19,False,False,"['CREDITCARD', 'KEY']",D32049,42.34954403114251,10
+416,classic,Blossom St at Charles St,082262bd-086b-46c7-83ce-eed2b39142ff,[],-71.0695936904267,416,True,15,False,False,"['CREDITCARD', 'KEY']",D32050,42.36435589027983,10
+417,classic,Columbus Ave at W. Canton St,ddcc8869-b8d4-483c-b9da-457fcebc8dc1,[],-71.07648162175792,417,True,19,False,False,"['CREDITCARD', 'KEY']",C32077,42.34474224772802,10
+419,classic,Central Square East Boston,9e710d48-51c1-460e-a027-3d16bde62b13,[],-71.03918548682486,419,True,15,False,False,"['CREDITCARD', 'KEY']",A32041,42.37544912547037,10
+420,classic,Charles St at Pinckney St,a758e44b-8f6b-498e-b943-1c4e965b00f4,[],-71.07079532006537,420,False,0,False,False,"['CREDITCARD', 'KEY']",D32051,42.35872530462163,10
+421,classic,Northbourne Rd at Hyde Park Ave,87b5a8b7-a330-4c51-ab32-7dafa292c88f,[],-71.117736660035,421,True,19,False,False,"['CREDITCARD', 'KEY']",C32078,42.29118034790426,10
+422,classic,American Legion Hwy at Cummins Hwy,d1c0b0c2-6e4c-424e-a946-a2a95a711633,[],-71.11687703062671,422,True,15,False,False,"['CREDITCARD', 'KEY']",C32079,42.278811581565975,10
+423,classic,Mt. Hope St at Hyde Park Ave,9f54207a-3308-43bd-b45c-9042b6389598,[],-71.11874517062459,423,True,19,False,False,"['CREDITCARD', 'KEY']",C32080,42.28484472443536,10
+424,classic,Jamaica St at South St,c5017e67-cada-4549-a52e-0f13dddd289d,[],-71.11570891001975,424,True,19,False,False,"['CREDITCARD', 'KEY']",D32052,42.3060456272408,10
+425,classic,The Dimock Center,ec4e1168-25dc-4929-b17b-e4ae578dd888,[],-71.09639923859504,425,True,16,False,False,"['CREDITCARD', 'KEY']",E32011,42.3193094317828,10
+426,classic,Surface Rd at Summer St,2363c5a3-93cc-41a2-a767-90f1826c041f,[],-71.05656400803126,426,True,27,False,False,"['CREDITCARD', 'KEY']",A32042,42.35294569782581,10
+427,classic,Washington St at Denton Terr,acb27827-d69a-4287-b132-3f529ca62ad2,[],-71.13423757273267,427,True,19,False,False,"['CREDITCARD', 'KEY']",C32081,42.280728147169015,10
+428,classic,Western Ave at Richardson St,2130e322-42a2-44ef-bbec-6a4fbf179fd9,[],-71.14393111327445,428,True,19,False,False,"['CREDITCARD', 'KEY']",A32043,42.361787410661876,10
+430,classic,Washington St at Walsh Playground,12d463d2-ce50-43bd-81b1-6be4dbdbbc1b,[],-71.06955613950048,430,True,19,False,False,"['CREDITCARD', 'KEY']",C32083,42.277194696397906,10
+431,classic,Washington St at Fuller St,9bfa4a32-5598-46ea-a1a1-17b4c6ed9d84,[],-71.07147924620222,431,True,15,False,False,"['CREDITCARD', 'KEY']",C32084,42.281986277339136,10
+432,classic,Centre St at W. Roxbury Post Office,0cb6d635-6a7d-4d75-89b4-36b12616be12,[],-71.15344755369732,432,True,19,False,False,"['CREDITCARD', 'KEY']",C32085,42.286331991127746,10
+433,classic,Centre St at Parkway YMCA,676ca473-eed6-4971-aaf3-e199a7ca335b,[],-71.15728851416861,433,True,19,False,False,"['CREDITCARD', 'KEY']",C32086,42.28277901074054,10
+434,classic,Spring St at Powell St,90330e1a-dee5-4914-9d3f-3891aeca12ca,[],-71.16341467955863,434,True,19,False,False,"['CREDITCARD', 'KEY']",C32087,42.277484442008216,10
+435,classic,Central Ave at River St,0b0467c1-0c90-4529-a556-fe4d57835bbb,[],-71.07337901405117,435,True,15,False,False,"['CREDITCARD', 'KEY']",C32088,42.27094707029229,10
+436,classic,Maverick St at Massport Path,8d535c23-f186-4161-aa10-17e94be6d4ae,[],-71.0333597474255,436,True,15,False,False,"['CREDITCARD', 'KEY']",A32044,42.36774122306014,10
+437,classic,Berkshire Street at Cambridge Street,9fef6df2-7f8f-43fc-a85b-7dd5453860f9,[],-71.08995433905875,437,True,19,False,False,"['CREDITCARD', 'KEY']",M32067,42.37207657915397,8
+440,classic,Boston Landing,20b0b405-54ba-4a80-b89c-0819772665db,[],-71.14167537549292,440,True,7,False,False,"['CREDITCARD', 'KEY']",A32045,42.356560923089404,10
+441,classic,Sullivan Square,40ee059e-8530-4992-9114-c16b87d6832f,[],-71.07514854529654,441,True,19,False,False,"['CREDITCARD', 'KEY']",D32053,42.384452256358436,10
+442,classic,Hyde Park Ave at Walk Hill St,ff6ed364-8676-45a0-b97f-71025683849e,[],-71.11601199963843,442,True,15,False,False,"['CREDITCARD', 'KEY']",C32089,42.29606704649873,10
+443,classic,Whittier St Health Center,82b41ffb-e284-4e4d-b22a-0cad2bfd4bee,[],-71.09218861916816,443,True,19,False,False,"['CREDITCARD', 'KEY']",B32059,42.332862884862635,10
+445,classic,Geiger Gibson Community Health Center,7ec0c53c-876a-419c-a78b-4edd000bbc9a,[],-71.04536797860419,445,True,19,False,False,"['CREDITCARD', 'KEY']",C32090,42.31886468217537,10
+446,classic,700 Commonwealth Ave.,a6e0db4f-fc9b-42af-bfe0-36cc0259b717,[],-71.10391523698127,446,True,16,False,False,"['CREDITCARD', 'KEY']",B32060,42.34960945333059,10
+447,classic,The Overlook at St. Gabriel's,2ba0c5dd-c990-4434-8a84-5c3eca23f096,[],-71.14549813806661,447,True,19,False,False,"['CREDITCARD', 'KEY']",D32054,42.34679008347347,10
+448,classic,Hale Park,228b8017-e4da-4722-9223-b8279a14b8ad,[],-71.0437126,448,True,11,False,False,"['CREDITCARD', 'KEY']",V32012,42.4206487,104
+452,classic,1200 Beacon St,a83f982f-a4f1-43e4-98e8-c8f4a0bb7290,[],-71.11467361450195,452,True,15,False,False,"['CREDITCARD', 'KEY']",K32015,42.34414898749529,4
+454,classic,Boylston St at Dartmouth St,2fd22786-dfeb-4126-a906-4f01802087f3,[],-71.07744187116623,454,True,23,False,False,"['CREDITCARD', 'KEY']",D32055,42.35019319808638,10
+455,classic,Coolidge Sq.,634b697d-0e64-4102-8849-abac7a7f8e35,[],-71.15683130688922,455,True,12,False,False,"['CREDITCARD', 'KEY']",W32001,42.372076114722866,125
+456,classic,Graham and Parks School – Linnaean St at Walker St,f606593b-3d07-40f2-bc6d-a0eb96588e44,[],-71.12449831038248,456,True,19,False,False,"['CREDITCARD', 'KEY']",M32068,42.38294430172271,8
+458,classic,Watertown Sq,66763558-7a03-48a9-8665-6b4445b81f48,[],-71.18573324459247,458,True,15,False,False,"['CREDITCARD', 'KEY']",W32002,42.365260317694485,125
+459,classic,Canal St at Causeway St,cf5f920f-b61d-4db0-b139-14aff04d577c,[],-71.06092190993877,459,True,23,False,False,"['CREDITCARD', 'KEY']",A32046,42.36530094929082,10
+460,classic,Broad St at Central St,5afe91c4-8076-4f9f-b83b-cf233bda2331,[],-71.05426469875965,460,True,15,False,False,"['CREDITCARD', 'KEY']",A32047,42.35849449039304,10
+461,classic,Railroad Lot and Minuteman Bikeway,81323081-749c-44cf-ac62-0e6c64305c32,[],-71.15336636682059,461,True,11,False,False,"['CREDITCARD', 'KEY']",L32001,42.41606457115141,128
+462,classic,Linwood St at Minuteman Bikeway,e4d5271f-5f76-401b-b7f0-c8dce3c26f10,[],-71.14906518727366,462,True,11,False,False,"['CREDITCARD', 'KEY']",L32002,42.40935395518158,128
+463,classic,Smith Pl at Wilson Rd,38706d8c-8d4b-49f7-b6ed-7688449db261,[],-71.15058331757609,463,True,19,False,False,"['CREDITCARD', 'KEY']",M32069,42.39239749145834,8
+464,classic,Mass Ave at Grafton St,9c8366d8-3b58-4894-b281-09e22f6fe5f7,[],-71.14382132425817,464,True,11,False,False,"['CREDITCARD', 'KEY']",L32003,42.40726052447951,128
+465,classic,Broadway at Grafton St,8e7c1984-dc81-43b0-a0d3-58c6de45225a,[],-71.14009319811885,465,True,11,False,False,"['CREDITCARD', 'KEY']",L32004,42.40994213011757,128
+466,classic,Centre St at Washington St,9f582e05-15e0-4a39-aef5-c719e0c78e26,[],-71.18641942508475,466,True,11,False,False,"['CREDITCARD', 'KEY']",N32000,42.35574334805774,127
+467,classic,Washington St at Crafts St,918335df-fc1a-45c2-9cfc-c5e2e93aecc0,[],-71.19943707257335,467,True,11,False,False,"['CREDITCARD', 'KEY']",N32001,42.35389024396587,127
+468,classic,Nonantum Library,ad2fb6f2-921f-440c-83de-08be76e35c2a,[],-71.20146199598821,468,True,15,False,False,"['CREDITCARD', 'KEY']",N32002,42.36068455768156,127
+469,classic,Bacon St at Washington St,01d29f8c-768d-4c4f-84ca-3de966075287,[],-71.1860453666327,469,True,11,False,False,"['CREDITCARD', 'KEY']",N32003,42.35711920909866,127
+470,classic,Union St at Herrick Rd – Newton Centre Green Line,fa568ea4-1be4-4992-93ca-9b1ca2ff52b4,[],-71.19367271661758,470,True,11,False,False,"['CREDITCARD', 'KEY']",N32004,42.32956868185623,127
+471,classic,MIT Carleton St at Amherst St,f1cafe36-f800-41f6-b74d-73953cb6394c,[],-71.08669817447662,471,True,27,False,False,"['CREDITCARD', 'KEY']",M32070,42.36054174140606,8
+472,classic,MIT Hayward St at Amherst St,533620e8-00ff-494a-b288-bd67602bc98e,[],-71.08551858007559,472,True,27,False,False,"['CREDITCARD', 'KEY']",M32071,42.36085937353302,8
+473,classic,West Newton,7dd0fc98-c1dd-4c93-9c1d-4bbdf5f93346,[],-71.2262749671936,473,True,14,False,False,"['CREDITCARD', 'KEY']",N32005,42.349600498642076,127
+474,classic,Watertown St at Albemarle Rd,77c1736c-a609-4453-94f7-8e4253a8193c,[],-71.21382214128971,474,True,11,False,False,"['CREDITCARD', 'KEY']",N32006,42.354104081396585,127
+475,classic,Arsenal Yards,68e5e79a-3c94-4848-b619-9c0829d7f687,[],-71.15764854490408,475,True,11,False,False,"['CREDITCARD', 'KEY']",W32004,42.36277388549605,125
+477,classic,Marion St at White St,9b0aff89-5242-475e-b03b-87c3c3bf51bb,[],-71.03907315999093,477,True,19,False,False,"['CREDITCARD', 'KEY']",A32048,42.38066930871317,10
+478,classic,Gove St at Orleans St,c935cfb1-ef73-402e-9b86-83aaaac6534d,[],-71.03558540113227,478,True,19,False,False,"['CREDITCARD', 'KEY']",A32049,42.37057753242139,10
+479,classic,Galileo Galilei Way at Main Street,13918b3b-9ac5-4968-a74d-e40dd3bc952e,[],-71.08974037706501,479,True,19,False,False,"['CREDITCARD', 'KEY']",M32072,42.363003781560096,8
+480,classic,Thorndike Field at Minuteman Bikeway,af066ffd-b892-434f-8532-1982fc408780,[],-71.14456963094199,480,True,11,False,False,"['CREDITCARD', 'KEY']",L32005,42.40016804853787,128
+481,classic,645 Summer St,868ccc83-99e5-4faf-96eb-e1fae26b9741,[],-71.03987016504107,481,True,19,False,False,"['CREDITCARD', 'KEY']",C32091,42.341780891371904,10
+482,classic,Kearins Playground,e68655be-23d3-46e5-a509-25be677e7542,[],-71.06041654944418,482,True,11,False,False,"['CREDITCARD', 'KEY']",V32013,42.406161241322444,104
+483,classic,Porzio Park,3b158c7a-a362-43ae-af1f-121b78be32d7,[],-71.02876782417297,483,True,17,False,False,"['CREDITCARD', 'KEY']",A32050,42.364119035231525,10
+484,classic,Revere Public Library,7feae3ce-ddf2-4a45-a123-1209c8a9182b,[],-71.008942,484,True,11,False,False,"['CREDITCARD', 'KEY']",R32007,42.408088,126
+485,classic,Revere City Hall,aa556ad4-0092-4687-96c2-8dbc69addb56,[],-71.0139,485,True,11,False,False,"['CREDITCARD', 'KEY']",R32006,42.40741,126
+486,classic,Langley Lot,9340e113-e0b2-48ac-b58a-8b6f001b0a94,[],-71.192861,486,True,11,False,False,"['CREDITCARD', 'KEY']",N32008,42.330528,127
+487,classic,Community Path at Lowell St,380de8b2-2728-4e4b-83f1-251bfbb5acf2,[],-71.105587,487,True,19,False,False,"['CREDITCARD', 'KEY']",S32040,42.392525,9
+488,classic,Martha Eliot Health Center,aefc33cd-40b9-48da-8b87-415428816bdb,[],-71.10196,488,True,16,False,False,"['CREDITCARD', 'KEY']",E32012,42.324173,10
+489,classic,Day Sq,f55cdf0a-3d7b-491c-bed2-7dc0ef2062d5,[],-71.027733,489,True,16,False,False,"['CREDITCARD', 'KEY']",A32051,42.379295,10
+490,classic,Blue Hill Ave at Havelock St,065e0e5d-8a0d-49b7-9c1f-c8eaba51a8b4,[],-71.090986,490,True,18,False,False,"['CREDITCARD', 'KEY']",C32092,42.286012,10
+491,classic,Harrison Ave at E. Dedham St,50cc3c7f-50ed-4c70-b483-c89f3f47c938,[],-71.06975,491,True,19,False,False,"['CREDITCARD', 'KEY']",C32093,42.339194,10
+492,classic,Harvard Stadium: N. Harvard St at Soldiers Field Rd,0f554e1d-9f0f-452d-9b4a-e00aa2c5911e,[],-71.1242,492,True,15,False,False,"['CREDITCARD', 'KEY']",A32052,42.368019,10
+493,classic,2 Hummingbird Lane at Olmsted Green,efd724b2-31cb-4aec-b9d9-8ab79271630c,[],-71.095003,493,True,17,False,False,"['CREDITCARD', 'KEY']",C32094,42.28887,10
+494,classic,Watertown Town Hall,518f6524-0e7f-454d-974e-e3ff9db1f795,[],-71.187936,494,True,11,False,False,"['CREDITCARD', 'KEY']",W32005,42.367621,125
+495,classic,Union Square East,569f4952-5a25-4394-a419-f9c4d9cca6f3,[],-71.090098,495,True,19,False,False,"['CREDITCARD', 'KEY']",S32041,42.380078,9
+502,classic,160 Arsenal,1ef5abb2-5af9-41f2-a0dd-1e44278ad9f1,[],-71.17569386959076,502,True,11,False,False,"['CREDITCARD', 'KEY']",W32006,42.36466403441681,125
+503,classic,Cary Square,f35de2ab-979e-42d5-8cbd-dc479ed637e9,[],-71.030709722545,503,True,12,False,False,"['CREDITCARD', 'KEY']",H32001,42.398135645582464,135
+504,classic,Bellingham Square,e49a5b83-2c9c-4610-a48b-89cfea172c8f,[],-71.03344559669495,504,True,11,False,False,"['CREDITCARD', 'KEY']",H32002,42.3931961102951,135
+505,classic,Chelsea Square,f36e24cd-de4c-4a5e-adf4-cb97ccd2958d,[],-71.03857017704286,505,True,11,False,False,"['CREDITCARD', 'KEY']",H32003,42.390226711033826,135
+506,classic,Broadway at Gerrish Ave,a5144f51-37b3-4404-8f9c-8e6d126d5ca6,[],-71.03085594484583,506,True,11,False,False,"['CREDITCARD', 'KEY']",H32004,42.39453079292221,135
+507,classic,Chelsea Station,1a661bb7-7d14-49e9-ac3d-22bafec8a2f0,[],-71.03987179230899,507,True,11,False,False,"['CREDITCARD', 'KEY']",H32005,42.39636527849676,135
+508,classic,855 Broadway,199f3d59-e726-4549-b9c1-4dfc8a343fdb,[],-71.02390923402707,508,True,11,False,False,"['CREDITCARD', 'KEY']",H32006,42.398417726101584,135
+509,classic,Nichols Ave. at Watertown Greenway,d5349097-b478-4b3f-9c46-d8fbcf38e3f4,[],-71.1565663665533,509,True,12,False,False,"['CREDITCARD', 'KEY']",W32007,42.36762048745005,125
+510,classic,Mass Ave at Broadway,04d40632-aaf2-49f2-a709-95c2974a7838,[],-71.15051883389242,510,True,11,False,False,"['CREDITCARD', 'KEY']",L32006,42.414202132001854,128
+511,classic,Bellevue T Stop,1206f5c8-7d1f-4c32-9d65-f3e80186fbde,[],-71.14636927843094,511,True,19,False,False,"['CREDITCARD', 'KEY']",C32095,42.28611420958351,10
+512,classic,Knoll St at Centre St,d7507124-4cab-4063-8445-a59a33a3d6e4,[],-71.1365658044815,512,True,19,False,False,"['CREDITCARD', 'KEY']",C32096,42.29376656473529,10
+513,classic,Roseland St At Dorchester Ave,66b0f341-a44a-4fa8-b04c-89a38de2950f,[],-71.06300890445709,513,True,12,False,False,"['CREDITCARD', 'KEY']",C32097,42.2911685327193,10
+514,classic,Gilman Square T at Medford St,57716f8d-c9ee-4768-8872-71343ec3ffd8,[],-71.0946444,514,True,19,False,False,"['CREDITCARD', 'KEY']",S32046,42.3867355,9
+515,classic,955 Mass Ave,00802fe6-4268-4dc8-8f55-0dbbc1665ce6,[],-71.10998779535294,515,True,19,False,False,"['CREDITCARD', 'KEY']",M32073,42.36895180540729,8
+516,classic,Salem Ferry Landing,5f726a7d-5c5d-48b1-9b13-06c77572a237,[],-70.8806911110878,516,True,11,False,False,"['CREDITCARD', 'KEY']",T32001,42.52189284110247,136
+517,classic,Salem Willows Park,ef6ef93b-488f-496b-afbf-3aedfd967129,[],-70.87021440267563,517,True,15,False,False,"['CREDITCARD', 'KEY']",T32002,42.53466911383265,136
+518,classic,Shetland Park - Congress at Peabody St,57f5003b-6574-40b3-83d7-3b5dee1472e0,[],-70.88952362537384,518,True,11,False,False,"['CREDITCARD', 'KEY']",T32003,42.51836788262243,136
+519,classic,Mayor Salvo Path at Mill St,ee18dbd6-05b8-4d38-a120-f84c3499a77e,[],-70.89570075273514,519,True,11,False,False,"['CREDITCARD', 'KEY']",T32004,42.51803519796769,136
+520,classic,Salem MBTA - Washington at Federal St,40e58976-02cc-4c7c-911f-7a6c97588bfa,[],-70.89611113071442,520,True,13,False,False,"['CREDITCARD', 'KEY']",T32005,42.52345239346618,136
+521,classic,Lafayette at Leach St,5f8ced09-665c-41e5-b67e-1e58fac21830,[],-70.89183300733566,521,True,11,False,False,"['CREDITCARD', 'KEY']",T32006,42.51142784358897,136
+522,classic,Salem State University - Bike Path at Loring Ave,c111ef1a-f276-415d-a95e-8e3c4e3a0c03,[],-70.89478075504303,522,True,15,False,False,"['CREDITCARD', 'KEY']",T32007 ,42.50182398896298,136
+523,classic,Boston College T,ccd6fdd4-b39e-46d7-b43c-7bacffb6bd87,[],-71.16708934307098,523,True,17,False,False,"['CREDITCARD', 'KEY']",N32009,42.33987891612856,127
+524,classic,Newton Highlands T,3c837bc0-fd08-49c4-adf5-0e9a98e918a7,[],-71.2063729763031,524,True,15,False,False,"['CREDITCARD', 'KEY']",N32010,42.322065656952944,127
+525,classic,California at Chapel,3de6e5da-9702-4623-8683-26abd98012a8,[],-71.20236039161682,525,True,12,False,False,"['CREDITCARD', 'KEY']",N32011,42.365148708129546,127
+526,classic,Beacon at Walnut,dd8dee9d-d044-41d6-9371-8463cf9c671b,[],-71.20668411254883,526,True,15,False,False,"['CREDITCARD', 'KEY']",N32012,42.330062324402995,127
+527,classic,Newton Library,d8ce5f8b-2440-45e1-ab1c-23cb3bcbde84,[],-71.207794547081,527,True,13,False,False,"['CREDITCARD', 'KEY']",N32013,42.336203368830134,127
+528,classic,Washington St at Walnut St,903b9b5d-4244-43e4-8441-0d17f9a994f7,[],-71.20764970779419,528,True,11,False,False,"['CREDITCARD', 'KEY']",N32014,42.351458116963016,127
+529,classic,One Beacon St,a3b94ed8-8301-4ec6-baf2-64ac493b5106,[],-71.06135129928589,529,True,16,False,False,"['CREDITCARD', 'KEY']",B32061,42.358477644348106,10
+530,classic,Foley St at Grand Union Blvd,0bc49982-74e9-4bbf-9991-e3d809d6319e,[],-71.08071684837341,530,True,19,False,False,"['CREDITCARD', 'KEY']",S32047,42.39301840035393,9
+531,classic,Harvard St and Stedman St,a439fff7-8630-464c-b277-efca6f6bc664,[],-71.12490355968475,531,True,15,False,False,"['CREDITCARD', 'KEY']",K32017,42.3443517550051,4
+532,classic,Concord Ave at Spinelli Place,940638c5-7cd0-4a11-899e-86af3868d400,[],-71.1538877,532,True,19,False,False,"['CREDITCARD', 'KEY']",M32074,42.390719,8
+533,classic,Danehy Park at New Street,a9d13461-7f0f-47b0-9a97-8ec9e9792865,[],-71.139019,533,True,19,False,False,"['CREDITCARD', 'KEY']",M32075,42.389456,8
+534,classic,Adams Branch Library,d87db7bd-8961-43fb-8cd6-8163c421b6c8,[],-71.054689,534,True,0,False,False,"['CREDITCARD', 'KEY']",C32098,42.286011,10
+535,classic,Auburndale,6e340d8e-45db-4fd9-b6eb-b74ec73b0d3e,[],-71.2477594614029,535,True,15,False,False,"['CREDITCARD', 'KEY']",N32015,42.34805541493346,127
+536,classic,Clinton St at North St,e519df41-c4d7-403a-9afa-a5dd7cdd2d03,[],-71.05524927377701,536,True,18,False,False,"['CREDITCARD', 'KEY']",D32057,42.3607028354884,10
+538,classic,Circuit Drive at American Legion Hwy,f836bc28-36a7-4ca6-bba6-0d75333d84bb,[],-71.09171926975249,538,True,19,False,False,"['CREDITCARD', 'KEY']",C32099,42.29704126420948,10
+539,classic,Walnut Ave at School St,2327cb08-fa9f-459b-9ab0-1a319b0f2f4c,[],-71.09616905450821,539,True,19,False,False,"['CREDITCARD', 'KEY']",C32102,42.31242399029812,10
+540,classic,Sumner St at Shirley Ave,18e98210-d257-414a-92e3-8347c2cac9a5,[],-70.99804848432541,540,True,11,False,False,"['CREDITCARD', 'KEY']",R32001,42.408337058129746,126
+541,classic,Orr Sq (Shirley Ave),e335fa7c-7adf-4360-9bfa-76b18124a56f,[],-70.99272429943085,541,True,11,False,False,"['CREDITCARD', 'KEY']",R32002,42.40715655698643,126
+542,classic,Hyde Park Ave at Arlington St,a6d6d4b2-3666-43ad-a690-7f676bdcc3fd,[],-71.12163126468657,542,True,19,False,False,"['CREDITCARD', 'KEY']",C32100,42.26286746177123,10
+543,classic,American Legion Hwy at Hyde Park Ave,5d17f129-af8c-4f30-bc58-6a8279052772,[],-71.119903922081,543,True,19,False,False,"['CREDITCARD', 'KEY']",C32101,42.27265394101898,10
+544,classic,Old Morse Park at Putnam Ave,dede6d5f-7d62-496e-a8ca-d5a64afe39c1,[],-71.1084133386612,544,True,15,False,False,"['CREDITCARD', 'KEY']",M32076,42.35766247889882,8
+545,classic,Morton St at Gallivan Blvd,b6a8522d-296d-4c05-887d-842374520780,[],-71.080286,545,True,15,False,False,"['CREDITCARD', 'KEY']",C32103,42.278747,10
+546,classic,Cleary Sq,ed6c012e-6d6c-41e7-8e01-90749fd67575,[],-71.12444,546,True,16,False,False,"['CREDITCARD', 'KEY']",C32104,42.2556,10
+547,classic,606 American Legion Hwy at Canterbury St,be18593a-9e4c-4a13-8bb2-a5bac3d9b2b3,[],-71.109725,547,True,18,False,False,"['CREDITCARD', 'KEY']",C32105,42.28578,10
+548,classic,555 Metropolitan Ave,b23674a7-15a8-46d2-8219-6668acecf24a,[],-71.11924,548,True,18,False,False,"['CREDITCARD', 'KEY']",C32106,42.2681,10
+549,classic,Valenti Way at Haverhill St,3a6d94a7-9fee-41c5-b8cc-a8487c5e691b,[],-71.05934903025626,549,True,24,False,False,"['CREDITCARD', 'KEY']",A32053,42.36473898691789,10
+550,classic,Somerville High School & Central Library,61168d8b-20b7-46c8-8f08-6ae1f100c4e0,[],-71.09601,550,True,17,False,False,"['CREDITCARD', 'KEY']",S32048,42.3864,9
+553,classic,Cambridge Crossing at North First Street,fe90d430-d33f-48b2-a5cd-bc161b220939,[],-71.076198,553,True,23,False,False,"['CREDITCARD', 'KEY']",M32077,42.371141,8
+554,classic,Forsyth St at Huntington Ave,bd1755dc-f26c-420e-85b3-fd025d0b5445,[],-71.090511,554,True,15,False,False,"['CREDITCARD', 'KEY']",B32062,42.339202,10
+555,classic,Hyde Park Library,d1a5e406-718c-44b9-b9dd-e63605b888aa,[],-71.122509,555,True,15,False,False,"['CREDITCARD', 'KEY']",E32013,42.2568376,10
+556,classic,Ross Playground,8b97606e-a849-4db8-ae9b-4009fe48d90b,[],-71.1145523,556,True,19,False,False,"['CREDITCARD', 'KEY']",E32014,42.2645666,10
+557,classic,Galileo Galilei Way at Fulkerson St/Binney St,dcd76e42-eebc-4432-9726-cdb3372b0b07,[],-71.0885418,557,True,19,False,False,"['CREDITCARD', 'KEY']",M32078,42.3664204,8
+558,classic,St. Alphonsus St at Tremont St,dd008e3c-ff17-4c82-abe0-502272a62425,[],-71.10124647617339,558,True,18,False,False,"['CREDITCARD', 'KEY']",B32063,42.33329254719182,10
+559,classic,Centre St at Commonwealth Ave,c23a4c0d-7e43-4042-80e2-7c894d07763b,[],-71.1934421,559,True,11,False,False,"['CREDITCARD', 'KEY']",N32018,42.3362358,127
+560,classic,Flat 9 at Whittier,ab6517ea-ed53-42eb-8881-657d362e56e8,[],-71.08767616843123,560,True,15,False,False,"['CREDITCARD', 'KEY']",B32064,42.33420351352245,10
+561,classic,Pier 4 Blvd at Autumn Ln,c1789d39-705f-4c03-9c14-4d6a3a4f4400,[],-71.0446705,561,True,19,False,False,"['CREDITCARD', 'KEY']",C32107,42.3502102,10
+562,classic,Hawthorne Boulevard,f4a64c30-b97f-4ae5-b531-a11698b558d7,[],-70.8903331,562,True,9,False,False,"['CREDITCARD', 'KEY']",T32008,42.5223714,136
+563,classic,Addison St at Saratoga St,ca76adb6-4c84-4484-9ec3-b411b81ddbef,[],-71.0151367,563,True,19,False,False,"['CREDITCARD', 'KEY']",A32054,42.38518146513944,10
+564,classic,Raymond Park at Walden St,ff938129-8179-455c-9ac9-9fcb9fc0b6d5,[],-71.12761001482795,564,True,19,False,False,"['CREDITCARD', 'KEY']",M32079,42.38736953747185,8
+565,classic,Wellington MBTA,8a404180-7c2e-4dbe-9489-c478ed959282,[],-71.07573182424781,565,True,19,False,False,"['CREDITCARD', 'KEY']",V32014,42.4023682,104
+566,classic,Main Street/Albany Street/Technology Square,0208190e-851c-417d-8bc7-1b218db97fbf,[],-71.0915669,566,True,23,False,False,"['CREDITCARD', 'KEY']",M32080,42.3629016,8
+567,classic,Brighton Ave at Linden St,9cc65d3d-cfcc-45ff-8f75-7264556b1cf9,[],-71.1296752,567,True,19,False,False,"['CREDITCARD', 'KEY']",D32058,42.3528376,10
+568,classic,Shawmut Ave at Lenox St,a9bc314b-a3fd-46e5-a63b-f005258bba5f,[],-71.08038157224655,568,True,19,False,False,"['CREDITCARD', 'KEY']",D32059,42.33584612997077,10
+569,classic,Hood Park,e3f5d039-a49e-4b3b-ab4d-4efbef2068c6,[],-71.0730457305908,569,True,23,False,False,"['CREDITCARD', 'KEY']",D32060,42.38004534693313,10
+570,classic,Salem State University - North Campus,12141b77-6e5f-444b-bace-2abf16db4fee,[],-70.891444,570,True,11,False,False,"['CREDITCARD', 'KEY']",T32009,42.503332,136
+571,classic,Forest River Park,52485851-e554-49de-ab9f-f536806d2d34,[],-70.88693,571,True,11,False,False,"['CREDITCARD', 'KEY']",T32010,42.506395,136
+572,classic,Essex St at Dalton Parkway,54d86d05-b399-42c5-a63a-a97713afc5d4,[],-70.905535,572,True,11,False,False,"['CREDITCARD', 'KEY']",T32011,42.516223,136
+573,classic,Salem MBTA - Lower Level,6eaa7343-402d-41c9-9aac-8c664fdbdcf1,[],-70.89684,573,True,11,False,False,"['CREDITCARD', 'KEY']",T32012,42.523994,136
+574,classic,Community Life Center,13883905-f5c7-48a4-9344-4fbd75de70df,[],-70.906271,574,True,9,False,False,"['CREDITCARD', 'KEY']",T32013,42.520136,136
+575,classic,Goodhue St at Grove St,b44b7c3d-c054-4591-92a9-3b96d86050ab,[],-70.910528,575,True,11,False,False,"['CREDITCARD', 'KEY']",T32014,42.520897,136
+576,classic,Main St at Brooks Park,6cec3afa-554c-466f-8323-5c619fe0ddc6,[],-71.110444,576,True,11,False,False,"['CREDITCARD', 'KEY']",F32001,42.411709,139
+577,classic,Medford Sq - Riverside Ave at River St,6aebc664-1e3c-479f-8f65-2bae99215ed3,[],-71.108102,577,True,11,False,False,"['CREDITCARD', 'KEY']",F32002,42.417724,139
+578,classic,Tufts Sq - Main St at Medford St,ee0fa23e-a6c2-474d-a6ef-bf581d63f1ae,[],-71.106128,578,True,11,False,False,"['CREDITCARD', 'KEY']",F32003,42.401697,139
+582,classic,Gore Street at Lambert Street,f9524971-e9f9-4572-aebc-580e48de042f,[],-71.08634233665725,582,True,19,False,False,"['CREDITCARD', 'KEY']",M32081,42.373079797934935,8
+583,classic,Broad Canal Way at Third Street,2d32e355-faee-407b-9bb7-45d80ffb059a,[],-71.08287078916874,583,True,19,False,False,"['CREDITCARD', 'KEY']",M32082,42.36304549626695,8
+584,classic,Malden Center T Station,f714390d-6874-43fa-a079-a07f83c79c7b,[],-71.073179,584,True,11,False,False,"['CREDITCARD', 'KEY']",G32001,42.426541,140
+585,classic,Northern Strand at Main St,eee3aab6-bd98-4d1f-8887-9c4e2adce482,[],-71.067793,585,True,11,False,False,"['CREDITCARD', 'KEY']",G32002,42.42386,140
+586,classic,Gramsdorf Playground,4f25f6ef-236b-43b4-8a92-68a24db0504b,[],-71.0429,586,True,14,False,False,"['CREDITCARD', 'KEY']",V32015,42.408156,104
