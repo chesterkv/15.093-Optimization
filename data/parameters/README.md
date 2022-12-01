@@ -1,0 +1,1 @@
+This folder contains files that were used as inputs to the optimization models. The code used to obtain these files is available in the src folder.
