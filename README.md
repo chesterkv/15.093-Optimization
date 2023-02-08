@@ -14,8 +14,12 @@ A viable solution is to use vans to move bikes between stations, freeing up dock
 
 ## Formulation 
 
-The details of the optimization formulation can be found in the [final report](final_report.pdf), along with the simplifying assumptions to were made to model the problem.
+The details of the optimization formulation can be found in the [final report](deliverables/final_report.pdf), along with the simplifying assumptions to were made to model the problem.
 
 ## Data
 
 We leverage [individual-level trip data](https://s3.amazonaws.com/hubway-data/index.html) provided by Bluebikes, which contains an exhaustive list of all Bluebikes trips since 2015. Additionally, we use real-time system information provided as part of the General Bikeshare Feed Specification program (GBFS), including station position, capacity and inventory.
+
+--- 
+
+The project was presented in December 2022 - the poster can be found [here](deliverables/poster.pdf).
